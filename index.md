@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Anett Rolikova Personal Website
 
-You can use the [editor on GitHub](https://github.com/anettrolikova/planett/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Bio
+Creative writter, organiser and social media manager.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Proof Of Work
+### Progressbar
+Operations, Event Management
+I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
 
-### Markdown
+### Ethereum Magicians
+Events, Operations, Social Media management,Content writtting, leading fundraising campaign on Gitcoin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+On behalf of Ethereum Magicians I organised: 
 
-```markdown
-Syntax highlighted code block
+Council in Berlin [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) &[another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
-# Header 1
-## Header 2
-### Header 3
+Community Room at Devcon5 in Osaka
 
-- Bulleted
-- List
+[Sessions](https://medium.com/ethereum-magicians/magic-at-ethcc-3-6dc509e94bad) at [EthCC3](https://ethcc.io/) in Paris
 
-1. Numbered
-2. List
+[Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Public presence
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
 
-### Jekyll Themes
+I'm building my personal brand on [Twitter](https://twitter.com/AnettRolikova).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anettrolikova/planett/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. 
 
-### Support or Contact
+I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public place where I share my notes, I share links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I created Ethereum Community YouTube channel where I did interview with Udi, this is a side project, I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state)
+
+### Personal self-learnings
+I'm into topics like Mental Health, Mindfulness, Health, Self-Learning, Psychology and Sport. I would like to create a short sum-ups from articles that I read, maybe like a collection of the best from my blog. I want to learn more and be consistent and improve myself in writing and read more. I would love to create my own newsletter or have personal blog, most likely I will use this domain for the future plans. For now I'm keeping my blogs on Medium (Ethereum and work related) and Tumblr (personal). 
+
+# Talks
+
+Over a year+ in Crypto space I gave a few talks and was apart of panel discussions
+
+I gave a talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
+
+I was apart of [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
+
+I moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
+
+I gave talk on [how to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
