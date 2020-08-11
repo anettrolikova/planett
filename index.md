@@ -1,4 +1,4 @@
-## Anett Rolikova - Ethereum Sunshinr
+## Anett Rolikova - Ethereum Sunshine
 
 ## Bio
 Creative writter, organiser and social media manager.
