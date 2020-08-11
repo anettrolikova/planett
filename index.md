@@ -1,4 +1,4 @@
-## Anett Rolikova Personal Website
+## Anett Rolikova - Ethereum Sunshinr
 
 ## Bio
 Creative writter, organiser and social media manager.
