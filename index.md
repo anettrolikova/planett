@@ -1,4 +1,4 @@
-## Anett Rolikova - Ethereum Sunshine
+## Anett Rolikova - Ethereum Sunshine :sun_with_face:
 
 # My bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
