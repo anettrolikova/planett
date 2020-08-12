@@ -1,4 +1,4 @@
-## Anett Rolikova - Ethereum Sunshine :sun_with_face:
+## Anett Rolikova - Ethereum Sunshine 🌞
 
 # My bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
@@ -20,7 +20,7 @@ Here’s the story in bullet points:
 - May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
 - June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor and helped me a LOT! This was my most valuable connection in Ethereum that I got and I wish to everyone to meet your "Jamie".
 
-The story continues with me organising events for Ethereum Magicians and then in March 2020 I got support from Ethereum Foundation to work on Community Communications and supporting Ethereum Meetup Organisers.  I would like to thank unconditionally to Jamie for being the best mentor (support, teacher, listener) and key person in my Ethereum career.
+The story continues with me organising events for Ethereum Magicians and then in March 2020 I got support from Ethereum Foundation to work on Community Communications and supporting [Ethereum Meetup Organisers](https://medium.com/ethereum-meetups-support/creating-support-layer-for-the-local-ethereum-community-builders-6b3e73e4e556).  I would like to thank unconditionally to Jamie for being the best mentor (support, teacher, listener) and key person in my Ethereum career.
 
 # Proof Of Work
 ### Progressbar
@@ -39,6 +39,9 @@ Community Room at Devcon5 in Osaka
 [Sessions](https://medium.com/ethereum-magicians/magic-at-ethcc-3-6dc509e94bad) at [EthCC3](https://ethcc.io/) in Paris
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
+
+### Ethereum Meettup Support Program
+Created Gitbook guideliness for meetup organisers, led the communiy of meetup organisers. 
 
 
 # Online presence
@@ -67,7 +70,7 @@ I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](h
 # FAQs 
 ### Why planett.xyz? 
 - Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett :blush: 
-Read [full story about why planet] (https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
+Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
 
 
 This page is WIP (Work In Progress) 
