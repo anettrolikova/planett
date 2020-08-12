@@ -69,7 +69,7 @@ I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](h
 
 # FAQs 
 ### Why planett.xyz? 
-- Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett :blush: 
+- Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett 🤗 
 Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
 
 
