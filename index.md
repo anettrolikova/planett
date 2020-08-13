@@ -1,12 +1,12 @@
 ## Anett Rolikova - Ethereum Sunshine 🌞
 
-I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
-I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
-I write notes on my Personal blog - [Mind Garden](https://anettrolikova.tumblr.com/)
-I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
-I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
+💻 I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
+📝 I write notes on my Personal blog - [Mind Garden](https://anettrolikova.tumblr.com/)
+📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
+🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
 
-I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
+💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 # My bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
