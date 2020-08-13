@@ -13,10 +13,6 @@ Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events
 
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective.  
 
-# More about me
-I’m from eastern Euro
-
-
 # My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
 Here’s the story in bullet points: 
@@ -25,7 +21,7 @@ Here’s the story in bullet points:
 - September 2018 I started to help out in Progressbar with events
 - November 2018 crew from Progressbar went on Devcon4 in Prague, I visited Prague as tourist and got invited on a couple of evening events during Devcon4 - Funfair and Chainlink Event, Rockaway blockchain party, Binance event, Event/ Party in Zizkov Tower. I had no idea what blockchain neither Ethereum is. I meet [Brenda Loya](https://www.linkedin.com/in/brendaloya/) at Funfair event, who gave me valuable advice about not being afraid of being the only girl around guys in tech which for me was eye-opening moment.
 - I tried to read about Blockchain and Ethereum on medium.com but I didn’t understood it
-- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and felt in love, wanted to be apart of it. Meet Lenka from MakerDAO - she told me about MakerDAO micro grants initiative. And bunch of other sweethearts that I'm in touch until today. I started to use Twitter, I had 10 followers when I started.  Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understood any of what Afri is doing but I loved the energy in the room, and took bunch of pics that are blurry but everyone was taking pics so I did too :D
+- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and felt in love, wanted to be apart of it. Meet Lenka from MakerDAO - she told me about MakerDAO micro grants initiative. And bunch of other sweethearts that I'm in touch until today. I started to use Twitter. Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understood any of what Afri is doing but I loved the energy in the room, and took bunch of pics that are blurry but everyone was taking pics so I did too :D
 - March 2019 organised the [first MakerDAO self-organised meetup](https://blog.makerdao.com/makerdao-global-meetups-and-micro-grants-initiative/) and got micro grant from MakerDAO for it
 - April 2019 volunteered on my first ETHGlobal event - ETH Cape Town hackathon where I started to look for my first community gig in Ethereum.
 - May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
