@@ -1,14 +1,24 @@
 ## Anett Rolikova - Ethereum Sunshine 🌞
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
+
+
 💻 I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
+
+
 📝 I write notes on my Personal blog - [Mind Garden](https://anettrolikova.tumblr.com/)
+
+
 📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
+
+
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+
+
 
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
-# My bio in 10 seconds 
+# My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
 
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective.  
@@ -35,19 +45,20 @@ Operations, Event Management
 I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
 
 ### Ethereum Magicians
-Events, Operations, Social Media management,Content writtting, leading fundraising campaign on Gitcoin.
+Events, Operations, Social Media management, Content writtting, Leading fundraising campaigns on Gitcoin.
 
-On behalf of Ethereum Magicians I organised: 
+#### On behalf of Ethereum Magicians I organised: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
-Community Room at Devcon5 in Osaka
+[Community Room](https://medium.com/ethereum-magicians/ethereum-magicians-sessions-recap-from-devcon5-aac6f36cb54a) at Devcon5 in Osaka
 
 [Sessions](https://medium.com/ethereum-magicians/magic-at-ethcc-3-6dc509e94bad) at [EthCC3](https://ethcc.io/) in Paris
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
 ### Ethereum Meettup Support Program
+Project Management
 Created Gitbook guideliness for meetup organisers, led the communiy of meetup organisers. 
 
 
