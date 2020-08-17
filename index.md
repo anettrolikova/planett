@@ -21,7 +21,7 @@
 # My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
 
-I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective.  
+I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
 
 # My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
@@ -45,7 +45,7 @@ Operations, Event Management
 I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
 
 ### Ethereum Magicians
-Events, Operations, Social Media management, Content writtting, Leading fundraising campaigns on Gitcoin.
+Events, Operations, Social Media management, Content writtting, Community Management, Leading fundraising campaigns on Gitcoin.
 
 #### On behalf of Ethereum Magicians I organised: 
 
@@ -59,7 +59,8 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 ### Ethereum Meettup Support Program
 Project Management
-Created Gitbook guideliness for meetup organisers, led the communiy of meetup organisers. 
+
+Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 
 
 # Online presence
