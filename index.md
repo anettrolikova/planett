@@ -58,9 +58,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
 ### Ethereum Meettup Support Program
-Project Management
-
-Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
+Project Management - Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 
 
 # Online presence
