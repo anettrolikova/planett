@@ -15,17 +15,16 @@
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
 
 
-
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
-# My Bio in 10 seconds 
+# 🪐 My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
 
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
 
 ## Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
-# My Ethereum Story
+# ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
 Here’s the story in bullet points: 
 
@@ -37,19 +36,21 @@ Here’s the story in bullet points:
 - March 2019 organised the [first MakerDAO self-organised meetup](https://blog.makerdao.com/makerdao-global-meetups-and-micro-grants-initiative/) and got micro grant from MakerDAO for it
 - April 2019 volunteered on my first ETHGlobal event - ETH Cape Town hackathon where I started to look for my first community gig in Ethereum.
 - May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
-- June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor and helped me a LOT! This was my most valuable connection in Ethereum that I got and I wish to everyone to meet your "Jamie".
+- June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor. This was my most valuable connection in Ethereum that I got.
 
-The story continues with me organising events for Ethereum Magicians and then in March 2020 I got support from Ethereum Foundation to work on Community Communications and supporting [Ethereum Meetup Organisers](https://medium.com/ethereum-meetups-support/creating-support-layer-for-the-local-ethereum-community-builders-6b3e73e4e556).  I would like to thank unconditionally to Jamie for being the best mentor (support, teacher, listener) and key person in my Ethereum career.
+The story continues with me organising events for Ethereum Magicians and then in March 2020 I got support from Ethereum Foundation to work on Community Communications and supporting [Ethereum Meetup Organisers](https://medium.com/ethereum-meetups-support/creating-support-layer-for-the-local-ethereum-community-builders-6b3e73e4e556). 
 
 # Proof Of Work
-### Progressbar
+### 🌈 Progressbar
+#### September 2018 - January 2020
 Operations, Event Management
 *Description of work:* I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
 
-### Ethereum Magicians
+### ✨ Ethereum Magicians
+#### June 2019 - Present
 Events, Operations, Social Media management, Content writtting, Community Management, Leading fundraising campaigns on Gitcoin.
 
-##### On behalf of Ethereum Magicians I organised: 
+##### On behalf of Ethereum Magicians I have organised following events: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
@@ -59,11 +60,12 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
-### Ethereum Meettup Support Program
+### 💜 Ethereum Meettup Support Program
+#### March 2020 - August 2020
 Project Management 
 
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
-
+[Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
 # Online presence
 I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
