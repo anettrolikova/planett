@@ -23,6 +23,8 @@ Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events
 
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
 
+## Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
+
 # My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
 Here’s the story in bullet points: 
@@ -42,12 +44,12 @@ The story continues with me organising events for Ethereum Magicians and then in
 # Proof Of Work
 ### Progressbar
 Operations, Event Management
-I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
+*Description of work:* I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
 
 ### Ethereum Magicians
 Events, Operations, Social Media management, Content writtting, Community Management, Leading fundraising campaigns on Gitcoin.
 
-#### On behalf of Ethereum Magicians I organised: 
+##### On behalf of Ethereum Magicians I organised: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
@@ -58,7 +60,9 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
 ### Ethereum Meettup Support Program
-Project Management - Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
+Project Management 
+
+*Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 
 
 # Online presence
@@ -90,4 +94,4 @@ I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](h
 Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
 
 
-This page is WIP (Work In Progress) 
+This page is WIP (Work In Progress) it may change over time. I will update it ton irregular basis
