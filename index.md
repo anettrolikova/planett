@@ -22,7 +22,7 @@ Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events
 
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
 
-## Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
+### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
