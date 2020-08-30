@@ -1,5 +1,7 @@
 ## Anett Rolikova - Ethereum Sunshine 🌞
-![Hi there](https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
+
+![Hi there]({{ site.url }}https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
+
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
