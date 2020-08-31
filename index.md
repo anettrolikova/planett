@@ -73,7 +73,7 @@ Project Management
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
-# Online presence
+# Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
 
 I'm building my Ethereum Sunshine personal brand on [Twitter](https://twitter.com/AnettRolikova).
@@ -85,7 +85,7 @@ I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is li
 I created Ethereum Community YouTube channel where I did [interview with Udi](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
 
 # Public presence and Talks
-Over a year+ in Crypto space I gave a few talks and was apart of panel discussions
+Over the year+ in Crypto space I gave a few talks and was apart of panel discussions
 
 I gave a lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
 
@@ -102,4 +102,4 @@ I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](h
 Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
 
 
-This page is WIP (Work In Progress) it may change over time. I will update it ton irregular basis
+This page is WIP (Work In Progress) it may change over time. I will update it on an irregular basis
