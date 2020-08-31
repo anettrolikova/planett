@@ -6,16 +6,19 @@
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
 
-💻 I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
+🖥 I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
 
 
-📝 I write notes on my Personal blog - [Mind Garden](https://anettrolikova.tumblr.com/)
+📝 I write notes and share interesting stuff to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
 📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
 
 
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+
+
+💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova)
 
 
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
@@ -51,7 +54,7 @@ Operations, Event Management
 
 ### ✨ Ethereum Magicians
 #### June 2019 - Present
-Events, Operations, Social Media management, Content writtting, Community Management, Leading fundraising campaigns on Gitcoin.
+Events, Operations, Social Media management, Content writting, Community Management, Leading fundraising campaigns on Gitcoin.
 
 ##### On behalf of Ethereum Magicians I have organised following events: 
 
@@ -63,7 +66,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
-### 💜 Ethereum Meettup Support Program
+### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
 Project Management 
 
