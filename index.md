@@ -1,6 +1,7 @@
 ## Anett Rolikova - Ethereum Sunshine 🌞
 
-![Hi there]({{ site.url }}https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
+![Hi there]({{ site.url }}https://avatars2.githubusercontent.com/u/44020788?s=460&u=f79a1a3589cbfb6d848272cc16e438cc6eb06bb5&v=4)
+
 
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
@@ -9,19 +10,11 @@
 🖥 I don’t code much although I'm pretty active on [GitHub](https://github.com/anettrolikova)
 
 
-📝 I write notes and share interesting stuff to my [Mind Garden](https://anettrolikova.tumblr.com/)
-
-
-📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
-
-
-🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 
 💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova)
 
-
-💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 # 🪐 My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
@@ -73,16 +66,6 @@ Project Management
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
-# Online presence and experiments
-I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
-
-I'm building my Ethereum Sunshine personal brand on [Twitter](https://twitter.com/AnettRolikova).
-
-I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. 
-
-I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public [Mind Garden](https://nesslabs.com/mind-garden) where I share my notes,links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
-
-I created Ethereum Community YouTube channel where I did [interview with Udi](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
 
 # Public presence and Talks
 Over the year+ in Crypto space I gave a few talks and was apart of panel discussions
@@ -95,6 +78,40 @@ I moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1
 
 I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
 
+# Online presence and experiments
+I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
+
+I'm building my Ethereum Sunshine personal brand on [Twitter](https://twitter.com/AnettRolikova).
+
+I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. 
+
+I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public [Mind Garden](https://nesslabs.com/mind-garden) where I share my notes,links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
+
+I created Ethereum Community YouTube channel where I did [interview with Udi](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
+
+📝 I write notes and share interesting stuff to my [Mind Garden](https://anettrolikova.tumblr.com/)
+
+
+🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+
+
+📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
+
+# My favs 
+Podcasts, articles...
+
+## Podcasts 
+### Non crypto
+[The Knowledge Project](https://fs.blog/knowledge-project/)
+### Crypto 
+[Into the Ether](https://podcast.ethhub.io/)
+
+## Newsletter 
+If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonderf:) 
+If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great. The same guy has [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
+
+## Articles 
+Miindfulness, Productivity, Learning and other topics. Simple to read, great style [Ness Labs](https://nesslabs.com/best)
 
 # FAQs 
 ### Why planett.xyz? 
