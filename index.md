@@ -66,6 +66,11 @@ Project Management
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
+### Superfluid
+#### September 2020 - Present
+Community Communications 
+
+
 
 # Public presence and Talks
 Over the year+ in Crypto space I gave a few talks and was apart of panel discussions
@@ -100,18 +105,18 @@ I created Ethereum Community YouTube channel where I did [interview with Udi](ht
 # My favs 
 Podcasts, articles...
 
-## Podcasts 
-### Non crypto
+### Podcasts 
+#### Non crypto
 [The Knowledge Project](https://fs.blog/knowledge-project/)
 ### Crypto 
 [Into the Ether](https://podcast.ethhub.io/)
 
-## Newsletter 
-If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonderf:) 
+### Newsletter 
+If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
 If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great. The same guy has [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
 
-## Articles 
-Miindfulness, Productivity, Learning and other topics. Simple to read, great style [Ness Labs](https://nesslabs.com/best)
+### Articles 
+Miindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
 
 # FAQs 
 ### Why planett.xyz? 
