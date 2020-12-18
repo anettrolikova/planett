@@ -66,7 +66,7 @@ Project Management
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
-### Superfluid
+### 💸 Superfluid
 #### September 2020 - December 2020
 Community Communications 
 *Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
