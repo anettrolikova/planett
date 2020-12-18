@@ -72,13 +72,13 @@ Community Communications
 *Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
 
 # Companies and projects that I worked with
-[Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a)
-[MVP Workshop](https://mvpworkshop.co/)
-[Flexddapps](https://flexdapps.com/)
-[Ethereum Foundation](https://ethereum.org/en/)
-[Sigmaprime](https://sigmaprime.io/)
-[OnFinality](https://www.onfinality.io/)
-[Bitfwd](https://www.bitfwd.com/)
+⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
+[MVP Workshop](https://mvpworkshop.co/) ⭐️
+[Flexddapps](https://flexdapps.com/) ⭐️
+[Ethereum Foundation](https://ethereum.org/en/) ⭐️
+[Sigmaprime](https://sigmaprime.io/) ⭐️
+[OnFinality](https://www.onfinality.io/) ⭐️
+[Bitfwd](https://www.bitfwd.com/) ⭐️
 
 # Public presence and Talks
 Over the year+ in Crypto space I gave a few talks and was apart of panel discussions. Here are recordings from ones that has been recorded: 
