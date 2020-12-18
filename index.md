@@ -24,8 +24,8 @@ I used to work with Ethereum Governance project, have a lot of insights about Et
 ### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
 # ⟠ My Ethereum Story
-I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. Which is absolutely not true. 
-Here’s the story in bullet points: 
+I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
+Here’s the story of how I fell into Ethereum rabbit hole in bullet points: 
 
 - April 2018 I visited [Progressbar](https://www.progressbar.sk/) - blockchain focused cowork space for the first time
 - September 2018 I started to help out in Progressbar with events
@@ -36,8 +36,6 @@ Here’s the story in bullet points:
 - April 2019 volunteered on my first ETHGlobal event - ETH Cape Town hackathon where I started to look for my first community gig in Ethereum.
 - May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
 - June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor. This was my most valuable connection in Ethereum that I got.
-
-The story continues with me organising events for Ethereum Magicians and then in March 2020 I got support from Ethereum Foundation to work on Community Communications and supporting [Ethereum Meetup Organisers](https://medium.com/ethereum-meetups-support/creating-support-layer-for-the-local-ethereum-community-builders-6b3e73e4e556). 
 
 # Proof Of Work
 ### 🌈 Progressbar
@@ -59,6 +57,8 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
+[Ethereum L2Future](https://medium.com/ethereum-magicians/ethereum-l2-future-by-ethereum-magicians-cd62cefa0fe7)
+
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
 Project Management 
@@ -67,13 +67,21 @@ Project Management
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 
 ### Superfluid
-#### September 2020 - Present
+#### September 2020 - December 2020
 Community Communications 
+*Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
 
-
+# Companies and projects that I worked with
+[Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a)
+[MVP Workshop](https://mvpworkshop.co/)
+[Flexddapps](https://flexdapps.com/)
+[Ethereum Foundation](https://ethereum.org/en/)
+[Sigmaprime](https://sigmaprime.io/)
+[OnFinality](https://www.onfinality.io/)
+[Bitfwd](https://www.bitfwd.com/)
 
 # Public presence and Talks
-Over the year+ in Crypto space I gave a few talks and was apart of panel discussions
+Over the year+ in Crypto space I gave a few talks and was apart of panel discussions. Here are recordings from ones that has been recorded: 
 
 I gave a lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
 
@@ -92,7 +100,7 @@ I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs r
 
 I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public [Mind Garden](https://nesslabs.com/mind-garden) where I share my notes,links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
 
-I created Ethereum Community YouTube channel where I did [interview with Udi](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
+I created Ethereum Community YouTube channel where I did [interview with Udi Wertheimer](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
 
 📝 I write notes and share interesting stuff to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
@@ -124,4 +132,4 @@ Miindfulness, Productivity, Learning and other topics. Simple to read, great, ed
 Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
 
 
-This page is WIP (Work In Progress) it may change over time. I will update it on an irregular basis
+This page is WIP (Work In Progress) it may change over time. I will update it on an irregular basis. 
