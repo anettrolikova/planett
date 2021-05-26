@@ -1,6 +1,6 @@
 ## Anett Rolikova - Ethereum Sunshine 🌞
 
-![Hi there]({{ https://avatars2.githubusercontent.com/u/44020788?s=460&u=f79a1a3589cbfb6d848272cc16e438cc6eb06bb5&v=4 }})
+![Hey, nice to e-meet you]( https://avatars2.githubusercontent.com/u/44020788?s=460&u=f79a1a3589cbfb6d848272cc16e438cc6eb06bb5&v=4 )
 
 
 
