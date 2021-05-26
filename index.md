@@ -16,6 +16,9 @@
 💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova)
 
 
+🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
+
+
 # 🪐 My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
 
@@ -71,6 +74,24 @@ Project Management
 Community Communications 
 *Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
 
+### 🐨 Bitfwd
+#### December 2021 - Now 
+Ecosystem Weaver
+*Description of work:* Worked with a few projects on: 
+Creating campaigns on social media, organising and hosting Community Calls, designing promo materials,swag operations and logistics. 
+Worked with projects: 
+[DeepDAO](https://deepdao.io/)
+[dHEDGE](https://www.dhedge.org/)
+[Bitfwd](https://www.bitfwd.com/)
+
+## Contributions: 
+👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
+
+🖼 **[NFT Standards Wiki](https://www.nftstandards.wtf/) Creator ** 
+
+**[KodaDot Logo and Presskit](https://github.com/kodadot/presskit) Author **
+
+
 # Companies and projects that I worked with
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
 [MVP Workshop](https://mvpworkshop.co/) ⭐️
@@ -80,8 +101,8 @@ Community Communications
 [OnFinality](https://www.onfinality.io/) ⭐️
 [Bitfwd](https://www.bitfwd.com/) ⭐️
 
-# Public presence and Talks
-Over the year+ in Crypto space I gave a few talks and was apart of panel discussions. Here are recordings from ones that has been recorded: 
+# Public presence  
+Here are recordings from ones that has been recorded: 
 
 I gave a lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
 
@@ -89,8 +110,17 @@ I was apart of [EEA and Ethereum Community panel](https://twitter.com/helsfoftro
 
 I moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
 
-I gave talk on [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
+## Talks
 
+👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
+
+👩‍🏫 Talk is in 🇸🇰 & 🇨🇿 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE)
+
+👩‍🏫 [ERC and Application layer Standards](https://youtu.be/9BhOCmf0v0s)
+
+
+
+ 
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
 
@@ -108,7 +138,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
 
 
-📸 I share my daily life on [Instagram](https://www.instagram.com/anett.rolikova/)
+📸 I'm not active on [Instagram](https://www.instagram.com/anett.rolikova/) but you can stalk me there
 
 # My favs 
 Podcasts, articles...
