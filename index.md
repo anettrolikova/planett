@@ -91,9 +91,9 @@ Organised and co-organised virtual events:
 ## Contributions: 
 👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
 
-🖼 **[NFT Standards Wiki](https://www.nftstandards.wtf/) Creator** 
+🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
 
-🎨 **[KodaDot Logo and Presskit](https://github.com/kodadot/presskit) Author**
+🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
 
 # Companies and projects that I worked with
