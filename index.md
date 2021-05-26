@@ -77,19 +77,23 @@ Community Communications
 ### 🐨 Bitfwd
 #### December 2021 - Now 
 Ecosystem Weaver
-*Description of work:* Worked with a few projects on: 
-Creating campaigns on social media, organising and hosting Community Calls, designing promo materials,swag operations and logistics. 
+*Description of work:* Worked with a few projects on
+Creating campaigns on social media, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
 Worked with projects: 
-[DeepDAO](https://deepdao.io/)
-[dHEDGE](https://www.dhedge.org/)
-[Bitfwd](https://www.bitfwd.com/)
+🌱[DeepDAO](https://deepdao.io/)🌱
+[dHEDGE](https://www.dhedge.org/)🌱
+[Bitfwd](https://www.bitfwd.com/)🌱
+Organised and co-organised virtual events: 
+- Co-Organised [The f̶u̶t̶u̶r̶e̶ present is DeFi and DAOs](https://medium.com/bitfwd/how-to-buidl-in-the-defi-and-daos-space-9a65c9597a45)
+- Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
+
 
 ## Contributions: 
 👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
 
-🖼 **[NFT Standards Wiki](https://www.nftstandards.wtf/) Creator ** 
+🖼 **[NFT Standards Wiki](https://www.nftstandards.wtf/) Creator** 
 
-**[KodaDot Logo and Presskit](https://github.com/kodadot/presskit) Author **
+🎨 **[KodaDot Logo and Presskit](https://github.com/kodadot/presskit) Author**
 
 
 # Companies and projects that I worked with
@@ -111,7 +115,7 @@ I was apart of [EEA and Ethereum Community panel](https://twitter.com/helsfoftro
 I moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
 
 ## Talks
-
+The ones that has been recorded
 👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
 
 👩‍🏫 Talk is in 🇸🇰 & 🇨🇿 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE)
