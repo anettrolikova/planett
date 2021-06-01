@@ -2,7 +2,7 @@
 
 ![Hey, nice to e-meet you](https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
 
-I do have shorter version of this page at https://y.at/⭐🌙🔭🐾
+## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE)
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
