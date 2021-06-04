@@ -2,7 +2,7 @@
 
 ![Hey, nice to e-meet you](https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
 
-## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE)
+## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emoji's)
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
@@ -28,6 +28,13 @@ Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events
 I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
 
 ### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
+
+## Contributions: 
+👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
+
+🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
+
+🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
@@ -91,14 +98,6 @@ Organised and co-organised virtual events:
 - Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
 
 
-## Contributions: 
-👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
-
-🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
-
-🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
-
-
 # Companies and projects that I worked with
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
 [MVP Workshop](https://mvpworkshop.co/) ⭐️
@@ -160,8 +159,14 @@ Podcasts, articles...
 If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
 If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great. The same guy has [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
 
-### Articles 
-Miindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
+### Articles & Books
+- Miindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
+- My fav book lately was [Manna: Two Visions of Humanity's Future by Marshall Brain](https://www.goodreads.com/book/show/13559843-manna)
+- I share articles that I read to my [Tumbr](https://anettrolikova.tumblr.com/) where you can find them summed up 
+- I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
+
+
+
 
 # FAQs 
 ### Why planett.xyz? 
