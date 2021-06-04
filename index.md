@@ -19,6 +19,9 @@
 🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
 
 
+👩‍💻 I ddo have my own GitHub repository list of links for [Crypto Beginners](https://github.com/anettrolikova/Crypto/blob/master/README.md)
+
+
 # 🪐 My Bio in 10 seconds 
 Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
 
