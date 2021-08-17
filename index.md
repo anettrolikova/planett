@@ -183,11 +183,12 @@ If you're looking for something more smarter, technology oriented then [Excavati
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
 
 ### Music
+[My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
 Fav arists: 
 - John Hopkins
 - Max Cooper
 - Odesza 
-[My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
+
 
 
 # FAQs 
