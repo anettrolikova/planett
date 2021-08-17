@@ -184,6 +184,8 @@ If you're looking for something more smarter, technology oriented then [Excavati
 
 ### Music
 [My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
+
+
 Fav arists: 
 - John Hopkins
 - Max Cooper
