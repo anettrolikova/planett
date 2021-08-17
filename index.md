@@ -159,17 +159,27 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 ### Podcasts 
 ### Crypto 
 [Into the Ether](https://podcast.ethhub.io/)
+
+
 [Modern Finance](https://modern.finance/)
+
+
 [Bankless](https://banklesshq.com/)
 
 #### Non crypto
 [The Knowledge Project](https://fs.blog/knowledge-project/)
+
+
 [Huberman](https://hubermanlab.com/)
+
+
 [Ben Greenfield](https://bengreenfieldfitness.com/)
 
 ### Newsletter 
 #### Crypto 
 [Week In the Ethereum News](https://weekinethereumnews.com/)
+
+
 [The Daily Gwei](https://thedailygwei.substack.com/)
 
 #### Non Crypto 
