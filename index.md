@@ -37,6 +37,8 @@ I used to work with Ethereum Governance project, have a lot of insights about Et
 
 🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
 
+📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://app.gitbook.com/@anett/s/emsp/)**
+
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
 
