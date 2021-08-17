@@ -19,7 +19,7 @@
 🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
 
 
-👩‍💻 I ddo have my own GitHub repository list of links for [Crypto Beginners](https://github.com/anettrolikova/Crypto/blob/master/README.md)
+👩‍💻 I do have my own GitHub repository list of links for [Crypto Beginners](https://github.com/anettrolikova/Crypto/blob/master/README.md)
 
 
 # 🪐 My Bio in 10 seconds 
@@ -30,11 +30,15 @@ I used to work with Ethereum Governance project, have a lot of insights about Et
 ### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
 ## Contributions: 
+
+👩‍⚖️ **[GitcoinDAO Steward](https://gov.gitcoin.co/t/introducing-stewards-governance/41/3?u=anett)**
+
 👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
 
 🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
 
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
+
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
@@ -138,24 +142,37 @@ I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is li
 
 I created Ethereum Community YouTube channel where I did [interview with Udi Wertheimer](https://www.youtube.com/watch?v=JIgdzVraFGk&t=1105s). I would like to film more interviews with people from the Ethereum Ecosystem to give more perspectives out to the public about Ethereum, find ways how to improve, simplify Ethereum, get to know more about people in Ethereum... (unfinished as it is in experimental state).
 
-📝 I write notes and share interesting stuff to my [Mind Garden](https://anettrolikova.tumblr.com/)
+📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
 
 
-📸 I'm not active on [Instagram](https://www.instagram.com/anett.rolikova/) but you can stalk me there
+📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) where you can stalk me
+
+
+📖 I do read books and sharing them on [Goodreads](https://www.goodreads.com/anett)
+
 
 # My favs 
-Podcasts, articles...
 
 ### Podcasts 
-#### Non crypto
-[The Knowledge Project](https://fs.blog/knowledge-project/)
 ### Crypto 
 [Into the Ether](https://podcast.ethhub.io/)
+[Modern Finance](https://modern.finance/)
+[Bankless](https://banklesshq.com/)
+
+#### Non crypto
+[The Knowledge Project](https://fs.blog/knowledge-project/)
+[Huberman](https://hubermanlab.com/)
+[Ben Greenfield](https://bengreenfieldfitness.com/)
 
 ### Newsletter 
+#### Crypto 
+[Week In the Ethereum News](https://weekinethereumnews.com/)
+[The Daily Gwei](https://thedailygwei.substack.com/)
+
+#### Non Crypto 
 If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
 If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great. The same guy has [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
 
@@ -165,7 +182,12 @@ If you're looking for something more smarter, technology oriented then [Excavati
 - I share articles that I read to my [Tumbr](https://anettrolikova.tumblr.com/) where you can find them summed up 
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
 
-
+### Music
+Fav arists: 
+- John Hopkins
+- Max Cooper
+- Odesza 
+[My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
 
 
 # FAQs 
