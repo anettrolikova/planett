@@ -41,6 +41,8 @@ I used to work with Ethereum Governance project, have a lot of insights about Et
 
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
+👩‍🏫 **[ethereum.org Content Contributor](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/eips/index.md)**
+
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
