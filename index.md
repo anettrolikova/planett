@@ -66,26 +66,30 @@ Operations, Event Management
 
 ### ✨ Ethereum Magicians
 #### June 2019 - Present
-Events, Operations, Social Media management, Content writting, Community Management, Leading fundraising campaigns on Gitcoin.
+Operations Manager
+*Description of work:* Events, Operations, Social Media management, Content writting, Community Management, Leading fundraising campaigns on Gitcoin.
 
-##### On behalf of Ethereum Magicians I have organised following events: 
+##### I have organised following events: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
-[Community Room](https://medium.com/ethereum-magicians/ethereum-magicians-sessions-recap-from-devcon5-aac6f36cb54a) at Devcon5 in Osaka
+[Ethereum Community Room](https://medium.com/ethereum-magicians/ethereum-magicians-sessions-recap-from-devcon5-aac6f36cb54a) at Devcon5 in Osaka
 
-[Sessions](https://medium.com/ethereum-magicians/magic-at-ethcc-3-6dc509e94bad) at [EthCC3](https://ethcc.io/) in Paris
+[Ethereum Sessions](https://medium.com/ethereum-magicians/magic-at-ethcc-3-6dc509e94bad) at [EthCC3](https://ethcc.io/) in Paris
 
 [Summer Sessions Virtual event](https://medium.com/ethereum-magicians/summer-ethereum-extravaganza-is-coming-295c75809349)
 
-[Ethereum L2Future](https://medium.com/ethereum-magicians/ethereum-l2-future-by-ethereum-magicians-cd62cefa0fe7)
+[Ethereum L2 Future](https://medium.com/ethereum-magicians/ethereum-l2-future-by-ethereum-magicians-cd62cefa0fe7)
+
+[ETHécole](https://medium.com/ethereum-magicians/ethecol%C3%A9-conference-all-you-need-to-know-7867dec7eaf6) in Paris
 
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
-Project Management 
+Community Communications as Ethereum Foundation Grantee
 
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
+[EMSP Documentation](https://app.gitbook.com/@anett/s/emsp/)
 
 ### 💸 Superfluid
 #### September 2020 - December 2020
@@ -93,7 +97,7 @@ Community Communications
 *Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
 
 ### 🐨 Bitfwd
-#### December 2021 - Now 
+#### December 2020 - April 2021
 Ecosystem Weaver
 *Description of work:* Worked with a few projects on
 Creating campaigns on social media, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
@@ -105,8 +109,15 @@ Organised and co-organised virtual events:
 - Co-Organised [The f̶u̶t̶u̶r̶e̶ present is DeFi and DAOs](https://medium.com/bitfwd/how-to-buidl-in-the-defi-and-daos-space-9a65c9597a45)
 - Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
 
+### 🥝 Ethereum Magicians
+#### April 2021 - Present
+Ethereum Standards Coordinator
+*Description of work:* Researched and documented NFT-related standards including Ethereum ERCs, published a wiki for the community. Performed technical writing. Led the NFT Working Group, involved Telegram, community calls, in-person meetings.
+[NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
+[NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
 
-# Companies and projects that I worked with
+
+# Companies and projects that I worked with:
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
 [MVP Workshop](https://mvpworkshop.co/) ⭐️
 [Flexddapps](https://flexdapps.com/) ⭐️
@@ -118,20 +129,19 @@ Organised and co-organised virtual events:
 # Public presence  
 Here are recordings from ones that has been recorded: 
 
-I gave a lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
+Lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
 
-I was apart of [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
+Panelist at [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
 
-I moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
+Moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
 
 ## Talks
-The ones that has been recorded
+The ones that has been recorded:
 👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
 
 👩‍🏫 Talk is in 🇸🇰 & 🇨🇿 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE)
 
 👩‍🏫 [ERC and Application layer Standards](https://youtu.be/9BhOCmf0v0s)
-
 
 
  
