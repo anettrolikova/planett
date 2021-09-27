@@ -23,9 +23,7 @@
 
 
 # 🪐 My Bio in 10 seconds 
-Ethereum Sunshine - organiser of Ethereum gatherings, meetups and smaller events with unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. 
-
-I used to work with Ethereum Governance project, have a lot of insights about Ethereum Community and it’s members especially from Ethereum Governance an Core Devs perspective. I love Ethereum Community 🤗
+Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers since 2019. 
 
 ### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
@@ -58,6 +56,8 @@ Here’s the story of how I fell into Ethereum rabbit hole in bullet points:
 - May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
 - June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor. This was my most valuable connection in Ethereum that I got.
 
+The story continues in Proof of Work as I started working in the ecosystem full time on a various projects. 
+
 # Proof Of Work
 ### 🌈 Progressbar
 #### September 2018 - January 2020
@@ -82,6 +82,8 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 [Ethereum L2 Future](https://medium.com/ethereum-magicians/ethereum-l2-future-by-ethereum-magicians-cd62cefa0fe7)
 
 [ETHécole](https://medium.com/ethereum-magicians/ethecol%C3%A9-conference-all-you-need-to-know-7867dec7eaf6) in Paris
+
+[NFT Dev Meetup](https://polygon.kickback.events/event/0x70a3fcd725300bc04cec5be7247b4bf89a737968) in Denver
 
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
