@@ -139,14 +139,21 @@ Moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/118
 The ones that has been recorded:
 👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
 
-👩‍🏫 Talk is in 🇸🇰 & 🇨🇿 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE)
+👩‍🏫 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE) Interview in 🇸🇰 & 🇨🇿 
 
-👩‍🏫 [ERC and Application layer Standards](https://youtu.be/9BhOCmf0v0s)
+👩‍🏫 [ERC and Application layer Standards](https://youtu.be/9BhOCmf0v0s) Talk
 
+👩‍🏫 [CCC #27 Anett Rolikova: "Na internete sa ľudia radi schovávajú za svoje nicknames."](https://www.youtube.com/watch?v=IpWF3VLjpbQ&ab_channel=Bitcoach)  Interview in 🇸🇰
+
+👩‍🏫 [Decrypting Mainnet: Anett Rolikova of Ethereum Magicians](https://www.youtube.com/watch?v=e7ekIckkrbU&ab_channel=Messari) Interview
+
+👩‍🏫 [Mainnet 2021: Setting the Standard: NFTs for the Future](https://www.youtube.com/watch?v=kxq2gHyxniE&ab_channel=Messari) Panel discussion
+
+👩‍🏫 [Mainnet 2021: Mainnet Bonfire: Getting to the Next Million](https://www.youtube.com/watch?v=ccF_P_e_uDs&ab_channel=Messari) Panel discussion 
 
  
 # Online presence and experiments
-I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments that are helping me build my personal brand: 
+I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments:
 
 I'm building my Ethereum Sunshine personal brand on [Twitter](https://twitter.com/AnettRolikova).
 
