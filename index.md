@@ -103,10 +103,15 @@ Community Communications
 Ecosystem Weaver
 *Description of work:* Worked with a few projects on
 Creating campaigns on social media, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
+
 Worked with projects: 
+
 🌱[DeepDAO](https://deepdao.io/)🌱
+
 [dHEDGE](https://www.dhedge.org/)🌱
+
 [Bitfwd](https://www.bitfwd.com/)🌱
+
 Organised and co-organised virtual events: 
 - Co-Organised [The f̶u̶t̶u̶r̶e̶ present is DeFi and DAOs](https://medium.com/bitfwd/how-to-buidl-in-the-defi-and-daos-space-9a65c9597a45)
 - Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
@@ -115,7 +120,9 @@ Organised and co-organised virtual events:
 #### April 2021 - Present
 Ethereum Standards Coordinator
 *Description of work:* Researched and documented NFT-related standards including Ethereum ERCs, published a wiki for the community. Performed technical writing. Led the NFT Working Group, involved Telegram, community calls, in-person meetings.
+
 [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
+
 [NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
 
 
