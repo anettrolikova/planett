@@ -135,17 +135,14 @@ Ethereum Standards Coordinator
 [OnFinality](https://www.onfinality.io/) ⭐️
 [Bitfwd](https://www.bitfwd.com/) ⭐️
 
-# Public presence  
-Here are recordings from ones that has been recorded: 
+# Public presence - Talks  
 
-Lightning talk [introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) on ETHPlanet Lightning talks in Osaka 
+👩‍🏫 [Introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) Lightning talk on ETHPlanet Lightning talks in Osaka 
 
-Panelist at [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
+👩‍🏫 [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
 
-Moderated [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5
+👩‍🏫 [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5 
 
-## Talks
-The ones that has been recorded:
 👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
 
 👩‍🏫 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE) Interview in 🇸🇰 & 🇨🇿 
@@ -159,6 +156,12 @@ The ones that has been recorded:
 👩‍🏫 [Mainnet 2021: Setting the Standard: NFTs for the Future](https://www.youtube.com/watch?v=kxq2gHyxniE&ab_channel=Messari) Panel discussion
 
 👩‍🏫 [Mainnet 2021: Mainnet Bonfire: Getting to the Next Million](https://www.youtube.com/watch?v=ccF_P_e_uDs&ab_channel=Messari) Panel discussion 
+
+## Featured in Media 
+
+[Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
+
+[Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
  
 # Online presence and experiments
