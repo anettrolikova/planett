@@ -4,6 +4,8 @@
 
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
+planett.eth is my ENS but I also own [anett.eth](http://opensea.com/anett.eth)
+
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
 
@@ -181,7 +183,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
 
 
-📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) where you can stalk me
+📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) 
 
 
 📖 I do read books and sharing them on [Goodreads](https://www.goodreads.com/anett)
