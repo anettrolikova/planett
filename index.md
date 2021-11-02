@@ -15,7 +15,7 @@ planett.eth is my ENS but I also own [anett.eth](http://opensea.com/anett.eth)
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 
-💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova)
+💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Miror](https://anett.mirror.xyz/) - decentralised publishing platform too 
 
 
 🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
