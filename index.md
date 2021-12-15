@@ -159,6 +159,8 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [Mainnet 2021: Mainnet Bonfire: Getting to the Next Million](https://www.youtube.com/watch?v=ccF_P_e_uDs&ab_channel=Messari) Panel discussion 
 
+👩‍🏫 [Letem svetem NFTs](https://www.youtube.com/watch?v=uAqmQkzi93U) NFT discussion in 🇸🇰 & 🇨🇿 [Slides are in English](https://www.canva.com/design/DAEx_dGREZI/0vJuzEWQq2tw4ZGVedJOcQ/view?utm_content=DAEx_dGREZI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
