@@ -171,9 +171,11 @@ Ethereum Standards Coordinator
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments:
 
-I'm building my Ethereum Sunshine personal brand on [Twitter](https://twitter.com/AnettRolikova).
+I'm building my personal [Twitter](https://twitter.com/AnettRolikova).
 
-I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. 
+I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. I recently started publishing on [Mirror](https://anett.mirror.xyz/) which is decentralised publishing platform but you can find my blogs on [Hackernoon](https://hackernoon.com/u/planett) too.
+
+I'm hoping to start writing more and publishing my ideas on [Substack](https://anett.substack.com/), no promises on that.
 
 I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public [Mind Garden](https://nesslabs.com/mind-garden) where I share my notes,links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
 
@@ -195,28 +197,20 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 
 ### Podcasts 
 ### Crypto 
-[Into the Ether](https://podcast.ethhub.io/)
-
-
-[Modern Finance](https://modern.finance/)
-
-
-[Bankless](https://banklesshq.com/)
+- [Into the Ether](https://podcast.ethhub.io/)
+- [Modern Finance](https://modern.finance/)
+- [Bankless](https://banklesshq.com/)
+- [On The Other Side](https://www.othersidepod.xyz/)
 
 #### Non crypto
-[The Knowledge Project](https://fs.blog/knowledge-project/)
-
-
-[Huberman](https://hubermanlab.com/)
-
-
-[Ben Greenfield](https://bengreenfieldfitness.com/)
+- [The Knowledge Project](https://fs.blog/knowledge-project/)
+- [Huberman](https://hubermanlab.com/)
+- [Ben Greenfield](https://bengreenfieldfitness.com/)
+- [The Genius Life](https://www.maxlugavere.com/podcast-1)
 
 ### Newsletter 
 #### Crypto 
 [Week In the Ethereum News](https://weekinethereumnews.com/)
-
-
 [The Daily Gwei](https://thedailygwei.substack.com/)
 
 #### Non Crypto 
@@ -232,13 +226,10 @@ If you're looking for something more smarter, technology oriented then [Excavati
 ### Music
 [My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
 
-
-Fav arists: 
+Fav music artists: 
 - John Hopkins
 - Max Cooper
 - Odesza 
-
-
 
 # FAQs 
 ### Why planett.xyz? 
