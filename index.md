@@ -43,6 +43,8 @@ Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Et
 
 👩‍🏫 **[ethereum.org Content Contributor](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/eips/index.md)**
 
+👩‍💻 **[Fraktal Documentation](https://docs.fraktal.io/developers/contracts)**
+
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
@@ -184,7 +186,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
-🚲 I love biking and shake my rides on [Strava](https://www.strava.com/athletes/61054116)
+🚲 I love sport and share activities on [Strava](https://www.strava.com/athletes/61054116)
 
 
 📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) 
