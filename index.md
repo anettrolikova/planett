@@ -141,7 +141,7 @@ Ethereum Standards Coordinator
 
 # Public presence - Talks  
 
-👩‍🏫 [Introducing Ethereum Magicians as a Community and Tech Forum](https://twitter.com/smpalladino/status/1181076398301036544?s=20) Lightning talk on ETHPlanet Lightning talks in Osaka 
+👩‍🏫 [How to improve Ethereum by contributing to an open-source ecosystem](https://twitter.com/smpalladino/status/1181076398301036544?s=20) Lightning talk on ETHPlanet Lightning talks in Osaka 
 
 👩‍🏫 [EEA and Ethereum Community panel](https://twitter.com/helsfoftroy/status/1181377591694901248?s=20) at Devcon5 
 
