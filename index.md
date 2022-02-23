@@ -163,6 +163,8 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [Letem svetem NFTs](https://www.youtube.com/watch?v=uAqmQkzi93U) NFT discussion in 🇸🇰 & 🇨🇿 [Slides are in English](https://www.canva.com/design/DAEx_dGREZI/0vJuzEWQq2tw4ZGVedJOcQ/view?utm_content=DAEx_dGREZI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+👩‍🏫 [Episode 19 - Anett Rolikova | WholesomeCrypto](https://www.youtube.com/watch?v=Oj_HIbW76TI&ab_channel=WholesomeCrypto) Podcast
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
