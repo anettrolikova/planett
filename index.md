@@ -138,6 +138,12 @@ Ethereum Standards Coordinator
 [Sigmaprime](https://sigmaprime.io/) ⭐️
 [OnFinality](https://www.onfinality.io/) ⭐️
 [Bitfwd](https://www.bitfwd.com/) ⭐️
+[KodaDot](https://kodadot.xyz/)⭐️
+[OnFinality](https://www.onfinality.io/)⭐️
+[Superfluid](https://www.superfluid.finance/home)⭐️
+[Gitcoin](https://gitcoin.co/)⭐️
+[Fraktal](https://www.fraktal.io/)⭐️
+
 
 # Public presence - Talks  
 
