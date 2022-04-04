@@ -173,9 +173,9 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [The Future of Inclusion 3.0](https://youtu.be/ZiLRcaZQ9ds) Online Panel discussion 
 
-👩‍🏫 Avalanche Summit 2022: From ERC-20 to NFT ERC-1155 [slides](https://www.canva.com/design/DAE7RJ7A9y0/SOmQQhZfAK_DnBwt3d0cFA/view?utm_content=DAE7RJ7A9y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)[talk sum-up thread](https://twitter.com/ChainDebrief/status/1507179280039825411?s=20&t=oApWe0uwPS-zTONmDZnEEg) 
+👩‍🏫 Avalanche Summit 2022: From ERC-20 to NFT ERC-1155 [slides](https://www.canva.com/design/DAE7RJ7A9y0/SOmQQhZfAK_DnBwt3d0cFA/view?utm_content=DAE7RJ7A9y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) & [talk sum-up thread](https://twitter.com/ChainDebrief/status/1507179280039825411?s=20&t=oApWe0uwPS-zTONmDZnEEg) 
 
-👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
+👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
 ## Featured in Media 
 
