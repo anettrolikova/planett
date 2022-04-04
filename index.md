@@ -157,7 +157,7 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE) Interview in 🇸🇰 & 🇨🇿 
 
-👩‍🏫 [ERC and Application layer Standards](https://youtu.be/9BhOCmf0v0s) Talk
+👩‍🏫 [PEEPanEIP #33: ERC and application layer standards with Anett Rolikova](https://youtu.be/9BhOCmf0v0s) Talk
 
 👩‍🏫 [CCC #27 Anett Rolikova: "Na internete sa ľudia radi schovávajú za svoje nicknames."](https://www.youtube.com/watch?v=IpWF3VLjpbQ&ab_channel=Bitcoach)  Interview in 🇸🇰
 
@@ -169,7 +169,13 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [Letem svetem NFTs](https://www.youtube.com/watch?v=uAqmQkzi93U) NFT discussion in 🇸🇰 & 🇨🇿 [Slides are in English](https://www.canva.com/design/DAEx_dGREZI/0vJuzEWQq2tw4ZGVedJOcQ/view?utm_content=DAEx_dGREZI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-👩‍🏫 [Episode 19 - Anett Rolikova | WholesomeCrypto](https://www.youtube.com/watch?v=Oj_HIbW76TI&ab_channel=WholesomeCrypto)Podcast
+👩‍🏫 [Episode 19 - Anett Rolikova | WholesomeCrypto](https://www.youtube.com/watch?v=Oj_HIbW76TI&ab_channel=WholesomeCrypto) Podcast
+
+👩‍🏫 [The Future of Inclusion 3.0](https://youtu.be/ZiLRcaZQ9ds) Online Panel discussion 
+
+👩‍🏫 Avalanche Summit 2022: From ERC-20 to NFT ERC-1155 [slides](https://www.canva.com/design/DAE7RJ7A9y0/SOmQQhZfAK_DnBwt3d0cFA/view?utm_content=DAE7RJ7A9y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)[talk sum-up thread](https://twitter.com/ChainDebrief/status/1507179280039825411?s=20&t=oApWe0uwPS-zTONmDZnEEg) 
+
+👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
 ## Featured in Media 
 
@@ -179,7 +185,7 @@ Ethereum Standards Coordinator
 
  
 # Online presence and experiments
-I do believe that you can build your own successful personal brand on a social media. There's a list of my personal experiments:
+I do believe that you can build your own successful personal brand on a social media. Here is a list of my personal experiments:
 
 I'm building my personal [Twitter](https://twitter.com/AnettRolikova).
 
