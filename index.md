@@ -183,6 +183,7 @@ Ethereum Standards Coordinator
 
 [Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
+[Avalanche Summit: Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/)
  
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. Here is a list of my personal experiments:
