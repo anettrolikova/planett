@@ -181,6 +181,8 @@ Ethereum Standards Coordinator
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
 
+[Ethereum Proponent Virgil Griffith Deemed a Flight Risk, Judge Denies Bail](https://news.bitcoin.com/ethereum-proponent-virgil-griffith-deemed-a-flight-risk-judge-denies-bail/) - Bitcoin.com
+
 [Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
 [Avalanche Summit: Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/)
