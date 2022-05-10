@@ -27,6 +27,10 @@ planett.eth is my ENS but I also own [anett.eth](http://opensea.com/anett.eth)
 # 🪐 My Bio in 10 seconds 
 Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers since 2019. 
 
+## My Speakers bio
+Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles in the NFT ecosystem and problems with ERC-721. She is also coordinating Ethereum Magicians forum and facilitating discussions around protocol and Ethereum governance. 
+
+
 ### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
 ## Contributions: 
@@ -88,6 +92,10 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 [ETHécole](https://medium.com/ethereum-magicians/ethecol%C3%A9-conference-all-you-need-to-know-7867dec7eaf6) in Paris
 
 [NFT Dev Meetup](https://polygon.kickback.events/event/0x70a3fcd725300bc04cec5be7247b4bf89a737968) in Denver
+
+[NFT Dev Meetup #ETHDenver](https://polygon.kickback.events/event/0x2bc8708d057d417d10ad25b35eac7cf90e6a7490)
+
+[OG Council](https://www.ogcouncil.com/) in Amsterdam
 
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
