@@ -150,6 +150,7 @@ Ethereum Standards Coordinator
 [OnFinality](https://www.onfinality.io/)⭐️
 [Superfluid](https://www.superfluid.finance/home)⭐️
 [Gitcoin](https://gitcoin.co/)⭐️
+[SushiSwap](https://twitter.com/SushiSwap)⭐️
 [Fraktal](https://www.fraktal.io/)⭐️
 
 
