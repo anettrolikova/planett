@@ -243,10 +243,10 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 
 #### Non Crypto 
 If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
-If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great. The same guy has [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
+If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great and also [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
 
 ### Articles & Books
-- Miindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
+- Mindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
 - My fav book lately was [Manna: Two Visions of Humanity's Future by Marshall Brain](https://www.goodreads.com/book/show/13559843-manna)
 - I share articles that I read to my [Tumbr](https://anettrolikova.tumblr.com/) where you can find them summed up 
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
@@ -262,7 +262,6 @@ Fav music artists:
 # FAQs 
 ### Why planett.xyz? 
 - Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett 🤗 
-Read [full story about why planet](https://www.instagram.com/p/B4A3JsJHvtl/?utm_source=ig_web_copy_link)
-
+You can find full story about why planet on my Instagram.
 
 This page is WIP (Work In Progress) it may change over time. I will update it on an irregular basis. 
