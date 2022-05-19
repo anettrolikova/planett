@@ -4,7 +4,7 @@
 
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
-planett.eth is my ENS but I also own [anett.eth](http://opensea.com/anett.eth)
+### Current role: Ethereum Standards Coordinator at [Ethereum Magicians](https://ethereum-magicians.org/)
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
@@ -49,6 +49,7 @@ Anett is leading NFT Standards Working Group, focusing on research and developme
 
 👩‍💻 **[Fraktal Documentation](https://docs.fraktal.io/developers/contracts)**
 
+[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for POAPs
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
