@@ -24,6 +24,9 @@
 👩‍💻 I do have my own GitHub repository list of links for [Crypto Beginners](https://github.com/anettrolikova/Crypto/blob/master/README.md)
 
 
+🌿 I do have [Lens](https://www.lensfrens.xyz/anettrolikova.lens) decentralised social media profile
+
+
 # 🪐 My Bio in 10 seconds 
 Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers since 2019. 
 
