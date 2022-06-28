@@ -190,6 +190,8 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
+👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs | Anett Rolikova | NFTBERLIN 2022](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
