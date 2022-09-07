@@ -190,7 +190,9 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
-👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs | Anett Rolikova | NFTBERLIN 2022](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
+👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs | NFTBERLIN 2022](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
+
+👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8)
 
 ## Featured in Media 
 
