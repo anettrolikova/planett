@@ -158,7 +158,7 @@ Ethereum Standards Coordinator
 [Fraktal](https://www.fraktal.io/)⭐️
 
 
-# Public presence - Talks  
+# Public presence - Talks & Podcasts
 
 👩‍🏫 [How to improve Ethereum by contributing to an open-source ecosystem](https://twitter.com/smpalladino/status/1181076398301036544?s=20) Lightning talk on ETHPlanet Lightning talks in Osaka 
 
@@ -190,7 +190,7 @@ Ethereum Standards Coordinator
 
 👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
-👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs | NFTBERLIN 2022](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
+👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
 
 👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8)
 
@@ -202,7 +202,7 @@ Ethereum Standards Coordinator
 
 [Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
-[Avalanche Summit: Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/)
+[Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/) - chaindebrief
  
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. Here is a list of my personal experiments:
@@ -244,6 +244,11 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 - [Ben Greenfield](https://bengreenfieldfitness.com/)
 - [The Genius Life](https://www.maxlugavere.com/podcast-1)
 
+Been loving these lately:
+- [Hurdle](https://open.spotify.com/show/3ugW9QfSKmL3AWx8N7thmd?si=de6d7aa5feb5463a)
+- [Trained](https://open.spotify.com/show/4S5PahOirvvAuGBswLfNzh)
+- [Being Human Podcast](https://open.spotify.com/show/1hz649aUzzEKxcECTYD9Nr?si=f60cf4e327cb42a7&nd=1)
+
 ### Newsletter 
 #### Crypto 
 [Week In the Ethereum News](https://weekinethereumnews.com/)
@@ -260,9 +265,7 @@ If you're looking for something more smarter, technology oriented then [Excavati
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
 
 ### Music
-[My Spotify Profile](https://open.spotify.com/user/21rufri6bv3t7ydwynbqhzgqi?si=d6f8824790914d9e)
-
-Fav music artists: 
+My fav music artists: 
 - John Hopkins
 - Max Cooper
 - Odesza 
