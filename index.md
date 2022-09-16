@@ -103,7 +103,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
-Community Communications as Ethereum Foundation Grantee
+**Community Communications as Ethereum Foundation Grantee**
 
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
@@ -111,12 +111,14 @@ Community Communications as Ethereum Foundation Grantee
 
 ### 💸 Superfluid
 #### September 2020 - December 2020
-Community Communications 
+**Community Communications**
+
 *Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
 
 ### 🐨 Bitfwd
 #### December 2020 - April 2021
-Ecosystem Weaver
+**Ecosystem Weaver**
+
 *Description of work:* Worked with a few projects on
 Creating campaigns on social media, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
 
@@ -134,7 +136,8 @@ Organised and co-organised virtual events:
 
 ### 🥝 Ethereum Magicians
 #### April 2021 - August 2021 
-Ethereum Standards Coordinator
+**Ethereum Standards Coordinator**
+
 *Description of work:* Researched and documented NFT-related standards including Ethereum ERCs, published a wiki for the community. Performed technical writing. Led the NFT Working Group, involved Telegram, community calls, in-person meetings.
 
 [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
@@ -143,7 +146,8 @@ Ethereum Standards Coordinator
 
 ### Nethermind 
 #### September 2022 - Present
-Internship Program Manager
+**Internship Program Manager**
+
 *Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
 
 [Nethermind](https://nethermind.io/)
