@@ -144,7 +144,7 @@ Organised and co-organised virtual events:
 
 [NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
 
-### Nethermind 
+### 🛸 Nethermind 
 #### September 2022 - Present
 **Internship Program Manager**
 
