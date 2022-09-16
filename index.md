@@ -133,13 +133,20 @@ Organised and co-organised virtual events:
 - Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
 
 ### 🥝 Ethereum Magicians
-#### April 2021 - Present
+#### April 2021 - August 2021 
 Ethereum Standards Coordinator
 *Description of work:* Researched and documented NFT-related standards including Ethereum ERCs, published a wiki for the community. Performed technical writing. Led the NFT Working Group, involved Telegram, community calls, in-person meetings.
 
 [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
 
 [NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
+
+### Nethermind 
+#### September 2022 - Present
+Internship Program Manager
+*Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
+
+[Nethermind](https://nethermind.io/)
 
 
 # Companies and projects that I worked with:
@@ -193,6 +200,8 @@ Ethereum Standards Coordinator
 👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
 
 👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8)
+
+👩‍🏫 [DoWeb3 on the go: Anett Rolikova](https://www.youtube.com/watch?v=r3akLx6D1tk&ab_channel=DoWeb3) Podcast 
 
 ## Featured in Media 
 
