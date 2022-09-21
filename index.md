@@ -4,7 +4,7 @@
 
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
-### Current role: Ethereum Standards Coordinator at [Ethereum Magicians](https://ethereum-magicians.org/)
+### Current role: Internship Project Manager at [Nethermind](https://nethermind.io/)
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
