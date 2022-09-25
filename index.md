@@ -5,6 +5,7 @@
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
 ### Current role: Internship Project Manager at [Nethermind](https://nethermind.io/)
+Email: anett@nethermind.io
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
@@ -15,7 +16,7 @@
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 
-💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Miror](https://anett.mirror.xyz/) - decentralised publishing platform too 
+💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Miror](https://anett.mirror.xyz/) too
 
 
 🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
@@ -33,8 +34,6 @@ Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Et
 ## My Speakers bio
 Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles in the NFT ecosystem and problems with ERC-721. She is also coordinating Ethereum Magicians forum and facilitating discussions around protocol and Ethereum governance. 
 
-
-### Are you interested in collaboration? Email me anette.rolikova@gmail.com 😊
 
 ## Contributions: 
 
