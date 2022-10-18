@@ -200,11 +200,17 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
-👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN)
+👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN) NFT Berlin
 
 👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8)
 
 👩‍🏫 [DoWeb3 on the go: Anett Rolikova](https://www.youtube.com/watch?v=r3akLx6D1tk&ab_channel=DoWeb3) Podcast 
+
+👩‍🏫 [Ethereum Roadmap Session at Devcon 6](https://youtu.be/idBYmaok520) Starts at 2:43:00
+
+👩‍🏫 [ERC Lighting talks at Devcon6](https://www.youtube.com/watch?v=5lvmFHvcMLY&t=12392s&ab_channel=EthereumFoundation) Starts at 3:58:00
+
+👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/) Podcast
 
 ## Featured in Media 
 
