@@ -51,7 +51,7 @@ Anett is leading NFT Standards Working Group, focusing on research and developme
 
 👩‍💻 **[Fraktal Documentation](https://docs.fraktal.io/developers/contracts)**
 
-[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for POAPs
+[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for [POAPs](https://app.poap.xyz/scan/anett.eth)
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
