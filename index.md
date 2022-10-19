@@ -210,7 +210,7 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [ERC Lighting talks at Devcon6](https://www.youtube.com/watch?v=5lvmFHvcMLY&t=12392s&ab_channel=EthereumFoundation) Starts at 3:58:00
 
-👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/) Podcast
+👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/)[YouTube](https://www.youtube.com/watch?v=w6bteK1OK24&ab_channel=EpicenterPodcast) Podcast
 
 ## Featured in Media 
 
