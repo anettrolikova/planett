@@ -4,9 +4,6 @@
 
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
-### Current role: Internship Program Manager at [Nethermind](https://nethermind.io/)
-Email: anett@nethermind.io
-
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
 
@@ -26,6 +23,9 @@ Email: anett@nethermind.io
 
 
 🌿 I do have [Lens](https://www.lensfrens.xyz/anettrolikova.lens) decentralised social media profile
+
+
+🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
 
 # 🪐 My Bio in 10 seconds 
