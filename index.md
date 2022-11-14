@@ -43,7 +43,7 @@ Anett is leading NFT Standards Working Group, focusing on research and developme
 
 🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
 
-📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://app.gitbook.com/@anett/s/emsp/)**
+📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://anett.gitbook.io/emsp/)**
 
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
@@ -106,7 +106,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 *Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
-[EMSP Documentation](https://app.gitbook.com/@anett/s/emsp/)
+[EMSP Documentation](https://anett.gitbook.io/emsp/)
 
 ### 💸 Superfluid
 #### September 2020 - December 2020
