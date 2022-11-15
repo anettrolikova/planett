@@ -176,7 +176,7 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Ethereum Roadmap 2020 panel](https://twitter.com/nategeier/status/1181443618579476481?s=20) at Devcon5 
 
-👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) on ETHPlanet Virtual Event
+👩‍🏫 [How to get more involved in the Ethereum Ecosystem as a woman](https://www.youtube.com/watch?v=Ew1RJyhepuo) at ETHPlanet Virtual Event
 
 👩‍🏫 [Ether je i pro holky!](https://www.youtube.com/watch?v=C-WbovsGzpE) Interview in 🇸🇰 & 🇨🇿 
 
@@ -186,11 +186,11 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Decrypting Mainnet: Anett Rolikova of Ethereum Magicians](https://www.youtube.com/watch?v=e7ekIckkrbU&ab_channel=Messari) Interview
 
-👩‍🏫 [Mainnet 2021: Setting the Standard: NFTs for the Future](https://www.youtube.com/watch?v=kxq2gHyxniE&ab_channel=Messari) Panel discussion
+👩‍🏫 [Mainnet 2021: Setting the Standard: NFTs for the Future](https://www.youtube.com/watch?v=kxq2gHyxniE&ab_channel=Messari) Panel Discussion
 
-👩‍🏫 [Mainnet 2021: Mainnet Bonfire: Getting to the Next Million](https://www.youtube.com/watch?v=ccF_P_e_uDs&ab_channel=Messari) Panel discussion 
+👩‍🏫 [Mainnet 2021: Mainnet Bonfire: Getting to the Next Million](https://www.youtube.com/watch?v=ccF_P_e_uDs&ab_channel=Messari) Panel Discussion 
 
-👩‍🏫 [Letem svetem NFTs](https://www.youtube.com/watch?v=uAqmQkzi93U) NFT discussion in 🇸🇰 & 🇨🇿 [Slides are in English](https://www.canva.com/design/DAEx_dGREZI/0vJuzEWQq2tw4ZGVedJOcQ/view?utm_content=DAEx_dGREZI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+👩‍🏫 [Letem svetem NFTs](https://www.youtube.com/watch?v=uAqmQkzi93U) Online Talk & Discussion in 🇸🇰 & 🇨🇿 [Slides are in English](https://www.canva.com/design/DAEx_dGREZI/0vJuzEWQq2tw4ZGVedJOcQ/view?utm_content=DAEx_dGREZI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 👩‍🏫 [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) Podcast
 
@@ -200,17 +200,21 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [ETH Dubai 2022: Why devs should care about NFTs](https://www.youtube.com/watch?v=bPrrRmGryE0&list=PLVDXrfCK6ZXIn6_5fT5JsN86whDXyWbvu&index=15&ab_channel=ETHDubai) & [slides](https://docs.google.com/presentation/d/1fdPcDRax2aX5UfgRKj9HyMhV7HXU8kltESW_O_wvdLo/edit?usp=sharing)
 
-👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN) NFT Berlin
+👩‍🏫 [ERC 721 as failed attempt in standardisation of NFTs](https://www.youtube.com/watch?v=FfAhXq3CXe0&ab_channel=NFTBERLIN) NFT Berlin - Talk 
 
-👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8)
+👩‍🏫 [EthCC2022 Why ERC721 sucks and we need a new NFT standard](https://youtu.be/IPk46oT1nt8) - Talk
 
-👩‍🏫 [DoWeb3 on the go: Anett Rolikova](https://www.youtube.com/watch?v=r3akLx6D1tk&ab_channel=DoWeb3) Podcast 
+👩‍🏫 [DoWeb3 on the go: Anett Rolikova](https://www.youtube.com/watch?v=r3akLx6D1tk&ab_channel=DoWeb3) - Podcast 
 
-👩‍🏫 [Ethereum Roadmap Session at Devcon 6](https://youtu.be/idBYmaok520) Starts at 2:43:00
+👩‍🏫 [Ethereum Roadmap Session at Devcon 6](https://youtu.be/idBYmaok520) Starts at 2:43:00 - Panel
 
-👩‍🏫 [ERC Lighting talks at Devcon6](https://www.youtube.com/watch?v=5lvmFHvcMLY&t=12392s&ab_channel=EthereumFoundation) Starts at 3:58:00
+👩‍🏫 [ERC Lighting talks at Devcon6](https://www.youtube.com/watch?v=5lvmFHvcMLY&t=12392s&ab_channel=EthereumFoundation) Starts at 3:58:00 - Talk 
 
-👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/)[YouTube](https://www.youtube.com/watch?v=w6bteK1OK24&ab_channel=EpicenterPodcast) Podcast
+👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/)[YouTube](https://www.youtube.com/watch?v=w6bteK1OK24&ab_channel=EpicenterPodcast) - Podcast
+
+👩‍🏫 [Smart Contracts vs Parachains]() at DOTBrno - Panel
+
+👩‍🏫 [ETH Brno Hackathon Opening & Ethereum Roadmap](https://www.youtube.com/watch?v=ooEfZ4kTc-c&ab_channel=UTXOPrague%7CUTXO.22) Starts at 17:00 - Talk
 
 ## Featured in Media 
 
@@ -220,16 +224,16 @@ Organised and co-organised virtual events:
 
 [Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
-[Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/) - chaindebrief
+[Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/) - Chaindebrief
  
 # Online presence and experiments
-I do believe that you can build your own successful personal brand on a social media. Here is a list of my personal experiments:
+I do believe that you can build your own successful personal brand on a social media. Here are my personal experiments:
 
 I'm building my personal [Twitter](https://twitter.com/AnettRolikova).
 
 I have [Medium account](https://medium.com/@AnettRolikova) where I share blogs regarding to my contributioins to Ethereum projects. I recently started publishing on [Mirror](https://anett.mirror.xyz/) which is decentralised publishing platform but you can find my blogs on [Hackernoon](https://hackernoon.com/u/planett) too.
 
-I'm hoping to start writing more and publishing my ideas on [Substack](https://anett.substack.com/), no promises on that.
+I'm hoping to start writing more and publishing my ideas on [Substack](https://anett.substack.com/), but no promises on that. I publish there on very irregular basis. 
 
 I started my mind garden on [Tumbr](https://anettrolikova.tumblr.com/), it is like a public [Mind Garden](https://nesslabs.com/mind-garden) where I share my notes,links to articles I read, sometimes I use it to vent my thoughts and clean my mind by writing about my day... It may look messy sometimes but I haven’t found a better platform where I can share my thoughts,yet.
 
@@ -247,7 +251,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 📖 I do read books and sharing them on [Goodreads](https://www.goodreads.com/anett)
 
 
-# My favs 
+# 🦋 My favs and recommendations 
 
 ### Podcasts 
 ### Crypto 
@@ -256,7 +260,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 - [Bankless](https://banklesshq.com/)
 - [On The Other Side](https://www.othersidepod.xyz/)
 
-#### Non crypto
+#### Non Crypto
 - [The Knowledge Project](https://fs.blog/knowledge-project/)
 - [Huberman](https://hubermanlab.com/)
 - [Ben Greenfield](https://bengreenfieldfitness.com/)
@@ -269,28 +273,22 @@ Been loving these lately:
 
 ### Newsletter 
 #### Crypto 
-[Week In the Ethereum News](https://weekinethereumnews.com/)
-[The Daily Gwei](https://thedailygwei.substack.com/)
+- [Week In the Ethereum News](https://weekinethereumnews.com/)
+- [The Daily Gwei](https://thedailygwei.substack.com/)
 
 #### Non Crypto 
 If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
 If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great and also [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
 
-### Articles & Books
+### Articles & Books 
 - Mindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
-- My fav book lately was [Manna: Two Visions of Humanity's Future by Marshall Brain](https://www.goodreads.com/book/show/13559843-manna)
-- I share articles that I read to my [Tumbr](https://anettrolikova.tumblr.com/) where you can find them summed up 
+- My fav book that I read recently was [Manna: Two Visions of Humanity's Future by Marshall Brain](https://www.goodreads.com/book/show/13559843-manna)
+- I share articles that I read to my [Tumbr Mind Garden](https://anettrolikova.tumblr.com/) where you can find them summed up 
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
-
-### Music
-My fav music artists: 
-- John Hopkins
-- Max Cooper
-- Odesza 
 
 # FAQs 
 ### Why planett.xyz? 
 - Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett 🤗 
-You can find full story about why planet on my Instagram.
+You can find full story about why planet on my Instagram which I keep private.
 
-This page is WIP (Work In Progress) it may change over time. I will update it on an irregular basis. 
+This page is WIP (Work In Progress) it may change over time. I'm updating it on a very irregular basis. 
