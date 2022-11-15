@@ -123,11 +123,7 @@ Creating campaigns on social media, organising and hosting Community Calls, desi
 
 Worked with projects: 
 
-🌱[DeepDAO](https://deepdao.io/)🌱
-
-[dHEDGE](https://www.dhedge.org/)🌱
-
-[Bitfwd](https://www.bitfwd.com/)🌱
+🌱[DeepDAO](https://deepdao.io/)🌱[dHEDGE](https://www.dhedge.org/)🌱 [Bitfwd](https://www.bitfwd.com/)🌱
 
 Organised and co-organised virtual events: 
 - Co-Organised [The f̶u̶t̶u̶r̶e̶ present is DeFi and DAOs](https://medium.com/bitfwd/how-to-buidl-in-the-defi-and-daos-space-9a65c9597a45)
