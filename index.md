@@ -212,7 +212,7 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Devcon 6 Recap – Live From Bogota](https://epicenter.tv/episodes/465/)[YouTube](https://www.youtube.com/watch?v=w6bteK1OK24&ab_channel=EpicenterPodcast) - Podcast
 
-👩‍🏫 [Smart Contracts vs Parachains]() at DOTBrno - Panel
+👩‍🏫 [Smart Contracts vs Parachains](https://twitter.com/Polkadotters1/status/1590752370191134720) at DOTBrno - Panel
 
 👩‍🏫 [ETH Brno Hackathon Opening & Ethereum Roadmap](https://www.youtube.com/watch?v=ooEfZ4kTc-c&ab_channel=UTXOPrague%7CUTXO.22) Starts at 17:00 - Talk
 
