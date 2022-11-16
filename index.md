@@ -4,6 +4,9 @@
 
 ## I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
+## 👩‍🏫 I'm open for Speaking Opportunities for next year, please reach out to me via [Twitter DM](https://twitter.com/AnettRolikova) if you would like me to speak at your event. Find my Speaker Bio bellow as well as recordings of my talks as my past experiences with speaking.
+
+
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
 
@@ -29,10 +32,10 @@
 
 
 # 🪐 My Bio in 10 seconds 
-Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers since 2019. 
+Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers and EIPs since 2019. 
 
 ## My Speakers bio
-Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles in the NFT ecosystem and problems with ERC-721. She is also coordinating Ethereum Magicians forum and facilitating discussions around protocol and Ethereum governance. 
+Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles in the NFT ecosystem and problems with ERC-721. She is also coordinating Ethereum Magicians forum and facilitating discussions around Ethereum core protocol and governance. 
 
 
 ## Contributions: 
