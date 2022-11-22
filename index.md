@@ -32,11 +32,11 @@ Find my Speaker Bio bellow as well as recordings of my talks and my past experie
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
 
-# 🪐 My Bio in 10 seconds 
-Ethereum Sunshine connecting people in the ecosystem since 2019. Organiser of Ethereum events unique perspective on Ethereum Community. Special ability to communicate and write in beginner friendly language. Working with Ethereum Developers and EIPs since 2019. 
+# 🪐 Introduction
+Anett has been connecting people in the ethereum ecosystem since 2019 unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and DevRel roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
-Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles in the NFT ecosystem and problems with ERC-721. She is also coordinating Ethereum Magicians forum and facilitating discussions around Ethereum core protocol and governance. 
+Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles around ERC-721 and similar standards in the NFT ecosystem. She is also coordinating Ethereum Magicians community and facilitating discussions around Ethereum Core Protocol and Governance. Anett has been contributing to evolution of Ethereum Core Protocol and Governance while contributing to various DAOs and projects. Helping with documentation, specs, 
 
 
 ## Contributions: 
