@@ -4,7 +4,8 @@
 
 ### I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
-## 👩‍🏫 I'm open for Speaking Opportunities for next year, please reach out to me via [Twitter DM](https://twitter.com/AnettRolikova) if you would like me to speak at your event. Find my Speaker Bio bellow as well as recordings of my talks as my past experiences with speaking.
+### 👩‍🏫 I'm open for Speaking Opportunities for next year, please reach out to me via [Twitter DM](https://twitter.com/AnettRolikova) if you would like me to speak at your event. 
+Find my Speaker Bio bellow as well as recordings of my talks and my past experiences with speaking.
 
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
