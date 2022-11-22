@@ -77,12 +77,13 @@ The story continues in Proof of Work as I started working in the ecosystem full 
 ### 🌈 Progressbar
 #### September 2018 - January 2020
 Operations, Event Management
-*Description of work:* I have hosted a bunch of in person events at [Progressbar](https://www.progressbar.sk/) since fall 2018 to winter 2020.
+*Description of work:* In charge of Social Media platforms, program agenda of events. Communications and Operations for blockchain focused co-working space. 
+[Progressbar](https://progressbar.sk/)
 
 ### ✨ Ethereum Magicians
-#### June 2019 - Present
+#### June 2019 - March 2020
 Operations Manager
-*Description of work:* Events, Operations, Social Media management, Content writting, Community Management, Leading fundraising campaigns on Gitcoin.
+*Description of work:* Managing social media platforms, organizing and hosting in person and online events, creating content for social media platforms, community and platform operations. Leading fundraising and grant campaigns.
 
 ##### I have organised following events: 
 
@@ -108,7 +109,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 #### March 2020 - August 2020
 **Community Communications as Ethereum Foundation Grantee**
 
-*Description of work:* Created Gitbook guideliness for meetup organisers, research on community, events and virtual events platforms, led the communiy of meetup organisers. 
+*Description of work:* Created Gitbook guide documentation for Ethereum meetup organizers, research on community events and virtual events platforms, leading community of meetup organizers. Host group community calls, connect speakers with organizers, involve community in group activities. Community building, coordinating. Using creative ideas, interate fast, communicate, problem solving, effectively self-manage community.
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 [EMSP Documentation](https://anett.gitbook.io/emsp/)
 
@@ -122,11 +123,9 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 #### December 2020 - April 2021
 **Ecosystem Weaver**
 
-*Description of work:* Worked with a few projects on
-Creating campaigns on social media, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
+*Description of work:* Worked with a few projects on creating social media campaigns, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
 
 Worked with projects: 
-
 🌱[DeepDAO](https://deepdao.io/)🌱[dHEDGE](https://www.dhedge.org/)🌱 [Bitfwd](https://www.bitfwd.com/)🌱
 
 Organised and co-organised virtual events: 
@@ -137,7 +136,7 @@ Organised and co-organised virtual events:
 #### April 2021 - August 2021 
 **Ethereum Standards Coordinator**
 
-*Description of work:* Researched and documented NFT-related standards including Ethereum ERCs, published a wiki for the community. Performed technical writing. Led the NFT Working Group, involved Telegram, community calls, in-person meetings.
+*Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and different groups on consensus around NFT related EIPs. Coordinate various groups and consensus.
 
 [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
 
