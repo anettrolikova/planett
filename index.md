@@ -289,7 +289,7 @@ If you're looking for something more smarter, technology oriented then [Excavati
 
 # FAQs 
 ### Why planett.xyz? 
-- Simple - I have planet 🪐 tattooed to my right upper hand and my name is Anett so planet-Anett 🤗 
-You can find full story about why planet on my Instagram which I keep private.
+- Simple - I have planet 🪐 tattooed to my right upper arm and my name is Anett so planet-Anett 🤗 
+You can find full story about why planet on my Instagram which I keep private for personal reason.
 
 This page is WIP (Work In Progress) it may change over time. I'm updating it on a very irregular basis. 
