@@ -136,8 +136,7 @@ Organised and co-organised virtual events:
 #### April 2021 - August 2021 
 **Ethereum Standards Coordinator**
 
-*Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and different groups on consensus around NFT related EIPs. Coordinate various groups and consensus.
-
+*Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and coordinate different groups on consensus layer and activities around NFT related EIPs. 
 [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
 
 [NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
@@ -147,11 +146,10 @@ Organised and co-organised virtual events:
 **Internship Program Manager**
 
 *Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
-
 [Nethermind](https://nethermind.io/)
 
 ### Present - Open for collaboration
-I would love to work with people that want to do more than just pre-defined roles, fancy names, corporate structures, milions of pointless calls... company that's looking to kickstart their startup, need help with growth, communications, community building, documentation, research, creative development... anything else. Just be open, communicate clearly, help me integrate into your team, give me freedom and you will see results fast. 
+I would love to work with people that want to do more than just pre-defined roles, fancy names, corporate structures, milions of pointless calls... company that's looking to kickstart their startup, need help with growth, communications, community building, documentation, research, creative development... anything else. Just be open, communicate clearly, help me integrate into your team, give me freedom and you will see the results of my work fast. 
 I'm interested in to work with a smaller team (up to like 30 people). Reach out to me via [Twitter DM](https://twitter.com/AnettRolikova) if you would like to collaborate ✨
 
 
@@ -245,7 +243,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
-🚲 I love sport and share activities on [Strava](https://www.strava.com/athletes/61054116)
+🚲 I love sport and share my activities on [Strava](https://www.strava.com/athletes/61054116)
 
 
 📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) 
