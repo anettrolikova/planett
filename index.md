@@ -219,6 +219,8 @@ I'm interested in to work with a smaller team (up to like 30 people). Reach out 
 
 👩‍🏫 [ETH Brno Hackathon Opening & Ethereum Roadmap](https://www.youtube.com/watch?v=ooEfZ4kTc-c&ab_channel=UTXOPrague%7CUTXO.22) Starts at 17:00 - Talk
 
+👩‍🏫 [Building ERC NFT Ecosystem - by Anett Rolikova](https://www.youtube.com/watch?v=rgkR-EU5OOs&ab_channel=Web3Family) - Talk followed by discussion circle
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
@@ -245,13 +247,13 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
-🚲 I love sport and share my activities on [Strava](https://www.strava.com/athletes/61054116)
+🚲 I share my physical activities on [Strava](https://www.strava.com/athletes/61054116)
 
 
 📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) 
 
 
-📖 I do read books and sharing them on [Goodreads](https://www.goodreads.com/anett)
+📖 I do read books and share them on [Goodreads](https://www.goodreads.com/anett)
 
 
 # 🦋 My favs and recommendations 
