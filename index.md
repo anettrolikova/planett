@@ -229,7 +229,12 @@ I'm interested in to work with a smaller team (up to like 30 people). Reach out 
 
 [Why Anett Rolikova of Ethereum Magicians Doesn't Like EIP-1559](https://decrypt.co/82234/why-anett-rolikova-ethereum-magicians-doesnt-like-eip-1559) - Decrypt
 
+[Quantstamp Community Update - September 2021](https://quantstamp.com/blog/quantstamp-community-update-september-2021)
+
 [Understanding Ethereum Standards and Its Importance In The NFT Space](https://chaindebrief.com/avalanche-summit-ethereum-standards-importance-nfts/) - Chaindebrief
+
+[The Underground World Of The Ethereum Magicians: Benzinga Interviews Anett Rolikova At EthCC 5](https://autos.yahoo.com/autos/underground-world-ethereum-magicians-benzinga-204733037.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMalF5TQAA5klGVC4dW3Ho80IWXdHyW3ogJ2YV4XGsIzf2l4UkulEaqpyrRoZgRqcL3UJxAilLIBXoEtsY5kFkl0XSJ8slJCNvYd9ktql_d9XjFe3vjw8UYQhllsbnsgh96dgkiVhPNpJIZaxvUIPg8aoDp55msLKEhoMIUb0S1R)
+
  
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. Here are my personal experiments:
