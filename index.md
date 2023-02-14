@@ -36,7 +36,7 @@ Find my Speaker Bio bellow as well as recordings of my talks and my past experie
 Anett has been connecting people in the ethereum ecosystem since 2019 unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and DevRel roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
-Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles around ERC-721 and similar standards in the NFT ecosystem. She is also coordinating Ethereum Magicians community and facilitating discussions around Ethereum Core Protocol and Governance. Anett has been contributing to evolution of Ethereum Core Protocol and Governance while contributing to various DAOs and projects. Helping with documentation, specs, 
+Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles around ERC-721 and similar standards in the NFT ecosystem. She is also coordinating Ethereum Magicians community and facilitating discussions around Ethereum Core Protocol and Governance. Anett has been contributing to evolution of Ethereum Core Protocol and Governance while contributing to various DAOs and projects.
 
 
 ## Contributions: 
@@ -150,10 +150,12 @@ Organised and co-organised virtual events:
 *Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
 [Nethermind](https://nethermind.io/)
 
-### Present - Open for collaboration
-I would love to work with people that want to do more than just pre-defined roles, fancy names, corporate structures, milions of pointless calls... company that's looking to kickstart their startup, need help with growth, communications, community building, documentation, research, creative development... anything else. Just be open, communicate clearly, help me integrate into your team, give me freedom and you will see the results of my work fast. 
-I'm interested in to work with a smaller team (up to like 30 people). Reach out to me via [Twitter DM](https://twitter.com/AnettRolikova) if you would like to collaborate ✨
+### ⏩️ Hyperlane 
+#### January 2023 - Present 
+**Community Biz Dev**
 
+*Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners.
+[Hyperlane](https://www.hyperlane.xyz/)
 
 # Companies and projects that I worked with:
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
