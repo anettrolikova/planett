@@ -152,7 +152,7 @@ Organised and co-organised virtual events:
 
 ### ⏩️ Hyperlane 
 #### January 2023 - Present 
-**Community Biz Dev**
+**Dev Rel**
 
 *Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners.
 [Hyperlane](https://www.hyperlane.xyz/)
