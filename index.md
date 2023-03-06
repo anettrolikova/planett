@@ -223,6 +223,10 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Building ERC NFT Ecosystem - by Anett Rolikova](https://www.youtube.com/watch?v=rgkR-EU5OOs&ab_channel=Web3Family) - Talk followed by discussion circle
 
+👩‍🏫 [How decisions get made on Ethereum](https://twitter.com/poojaranjan19/status/1632776808054632450?s=20) at Interop Summit - Moderated Panel
+
+👩‍🏫 [From web2 to web3: why, how and with whom?](https://events.ethdenver.com/eden23/attendease/networking/experience/07401e35-3db3-4358-8544-7e855d41df77/f08aeef8-2f83-4286-99a9-5c663614d261) at ETH Denver - Moderated Panel
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
@@ -237,6 +241,7 @@ Organised and co-organised virtual events:
 
 [The Underground World Of The Ethereum Magicians: Benzinga Interviews Anett Rolikova At EthCC 5](https://autos.yahoo.com/autos/underground-world-ethereum-magicians-benzinga-204733037.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMalF5TQAA5klGVC4dW3Ho80IWXdHyW3ogJ2YV4XGsIzf2l4UkulEaqpyrRoZgRqcL3UJxAilLIBXoEtsY5kFkl0XSJ8slJCNvYd9ktql_d9XjFe3vjw8UYQhllsbnsgh96dgkiVhPNpJIZaxvUIPg8aoDp55msLKEhoMIUb0S1R)
 
+[Dispatch from Denver: Ethereum Builds through the Bear Market](https://www.culture3.xyz/posts/dispatch-from-denver-ethereum-builds-through-the-bear-market)
  
 # Online presence and experiments
 I do believe that you can build your own successful personal brand on a social media. Here are my personal experiments:
