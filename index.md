@@ -36,7 +36,7 @@ Find my Speaker Bio bellow as well as recordings of my talks and my past experie
 Anett has been connecting people in the ethereum ecosystem since 2019 unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and DevRel roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
-Anett is leading NFT Standards Working Group, focusing on research and development in the NFT ERC Ecosystem. She published many articles tackling protocol and application layer obstacles around ERC-721 and similar standards in the NFT ecosystem. She is also coordinating Ethereum Magicians community and facilitating discussions around Ethereum Core Protocol and Governance. Anett has been contributing to evolution of Ethereum Core Protocol and Governance while contributing to various DAOs and projects.
+Anett used to lead NFT Standards Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians. Now leading Developer Relations at Hyperlane building Modular Permissionless Interoperability Protocol.
 
 
 ## Contributions: 
