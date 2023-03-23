@@ -33,10 +33,10 @@ Find my Speaker Bio bellow as well as recordings of my talks and my past experie
 
 
 # 🪐 Introduction
-Anett has been connecting people in the ethereum ecosystem since 2019 unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and DevRel roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
+Anett has been connecting people in the Ethereum ecosystem since 2019 with the unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and developer relations roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
-Anett used to lead NFT Standards Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians. Now leading Developer Relations at Hyperlane building Modular Permissionless Interoperability Protocol.
+Anett used to lead NFT Standards Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians. Now leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) building the first Permissionless Interoperability layer.
 
 
 ## Contributions: 
