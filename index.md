@@ -223,9 +223,11 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Building ERC NFT Ecosystem - by Anett Rolikova](https://www.youtube.com/watch?v=rgkR-EU5OOs&ab_channel=Web3Family) - Talk followed by discussion circle
 
-👩‍🏫 [How Decisions Get Made on Ethereum | Governance Panel at Interop Summit 2023](https://www.youtube.com/watch?v=0t1aN-qaH9E&ab_channel=Axelar) at Interop Summit - Moderated Panel
+👩‍🏫 [How Decisions Get Made on Ethereum I Governance Panel at Interop Summit 2023](https://www.youtube.com/watch?v=0t1aN-qaH9E&ab_channel=Axelar) - Moderated Panel
 
 👩‍🏫 [From web2 to web3: why, how and with whom?](https://events.ethdenver.com/eden23/attendease/networking/experience/07401e35-3db3-4358-8544-7e855d41df77/f08aeef8-2f83-4286-99a9-5c663614d261) at ETH Denver - Moderated Panel
+
+👩‍🏫 [Our Cross-Chain Future Panel I Avalanche Summit II](https://youtu.be/a9lBw4aUeu0) - Panel
 
 ## Featured in Media 
 
