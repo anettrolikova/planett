@@ -229,6 +229,10 @@ Organised and co-organised virtual events:
 
 👩‍🏫 [Our Cross-Chain Future Panel I Avalanche Summit II](https://youtu.be/a9lBw4aUeu0) - Panel
 
+👩‍🏫 [Permissionlessly Connecting Blockchains: Anett Rolikova, Hyperlane I Avalanche Summit II](https://www.youtube.com/watch?v=7UoNsKPL4uo&list=PLRHl-ulWK4-HfaHjnKsI1X55x1o_WdClN&index=147&ab_channel=Avalanche) - Talk
+
+👩‍🏫 [Interoperability challenges when building Interchain apps / Anett Rolikova](https://youtu.be/6QVCX0n0ufw) at ETH Prague 2023 - Talk
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
