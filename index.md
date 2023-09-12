@@ -39,7 +39,7 @@ Anett has been connecting people in the Ethereum ecosystem since 2019 with the u
 Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) building the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box. Previously she lead [NFT Standards](https://www.nftstandards.wtf/) Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
-## Contributions: 
+## Contributions & Memberships : 
 
 👩‍⚖️ **[GitcoinDAO Steward](https://gov.gitcoin.co/t/introducing-stewards-governance/41/3?u=anett)**
 
@@ -57,7 +57,13 @@ Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) 
 
 🥁 **[EIP All Info Doc](https://www.notion.so/ethmagicians/EIP-All-Info-8991d71f20254175b9cff554603d2247)**
 
-[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for [POAPs](https://app.poap.xyz/scan/anett.eth)
+👩‍💻 **Advisor for ConsenSys Vanguard Program**
+
+👩‍🏫 **[DeveloperDAO member](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/7214)**
+
+👩‍🏫 **Kernel KB4 Fellow**
+
+👩‍🏫 **SheFi Season 9 Squad**
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
@@ -151,10 +157,10 @@ Organised and co-organised virtual events:
 [Nethermind](https://nethermind.io/)
 
 ### ⏩️ Hyperlane 
-#### January 2023 - Present 
+#### January 2023 - September 2023
 **Dev Rel**
 
-*Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners.
+*Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
 [Hyperlane](https://www.hyperlane.xyz/)
 
 # Companies and projects that I worked with:
@@ -265,10 +271,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
 
-🚲 I share my physical activities on [Strava](https://www.strava.com/athletes/61054116)
-
-
-📸 I do have [Instagram](https://www.instagram.com/anett.rolikova/) 
+🚲 I share my workouts, hikes on [Strava](https://www.strava.com/athletes/61054116)
 
 
 📖 I do read books and share them on [Goodreads](https://www.goodreads.com/anett)
@@ -277,22 +280,34 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 # 🦋 My favs and recommendations 
 
 ### Podcasts 
+I do listen to podcasts sometimes, here are my favs: 
+
 ### Crypto 
+Updated list: 
+- [Unchained](https://open.spotify.com/show/1cJrrfGY1SKBIRn5noKSAf?si=b13d26ae079b4486)
+- [Bell Curve](https://open.spotify.com/show/3uMWirMj2hc7IQYEUeBTyT?si=f1d090dd7fce4bc7)
+- [Into the Bytecode](https://open.spotify.com/show/5yEjxV7wEYwW6MiiIzzM5P?si=86241449a1664a61)
+- [Uncommon Core 2.0](https://open.spotify.com/show/3vuV292Him90EjQ5YL4XIw?si=1a576222070a4d9c)
+- [Zero Knowledge](https://open.spotify.com/show/5Xan1x9Cj7BBvRs2Ss4keG?si=cc6e7874a21b4b0c)
+
+I used to love these:
 - [Into the Ether](https://podcast.ethhub.io/)
 - [Modern Finance](https://modern.finance/)
 - [Bankless](https://banklesshq.com/)
 - [On The Other Side](https://www.othersidepod.xyz/)
 
-#### Non Crypto
+
+#### Non-Crypto
+Updated list: 
+- [Hurdle](https://open.spotify.com/show/3ugW9QfSKmL3AWx8N7thmd?si=de6d7aa5feb5463a)
+- [Trained](https://open.spotify.com/show/4S5PahOirvvAuGBswLfNzh)
+- [Being Human Podcast](https://open.spotify.com/show/1hz649aUzzEKxcECTYD9Nr?si=f60cf4e327cb42a7&nd=1)
+  
+I used to love these: 
 - [The Knowledge Project](https://fs.blog/knowledge-project/)
 - [Huberman](https://hubermanlab.com/)
 - [Ben Greenfield](https://bengreenfieldfitness.com/)
 - [The Genius Life](https://www.maxlugavere.com/podcast-1)
-
-Been loving these lately:
-- [Hurdle](https://open.spotify.com/show/3ugW9QfSKmL3AWx8N7thmd?si=de6d7aa5feb5463a)
-- [Trained](https://open.spotify.com/show/4S5PahOirvvAuGBswLfNzh)
-- [Being Human Podcast](https://open.spotify.com/show/1hz649aUzzEKxcECTYD9Nr?si=f60cf4e327cb42a7&nd=1)
 
 ### Newsletter 
 #### Crypto 
@@ -311,7 +326,10 @@ If you're looking for something more smarter, technology oriented then [Excavati
 
 # FAQs 
 ### Why planett.xyz? 
-- Simple - I have planet 🪐 tattooed to my right upper arm and my name is Anett so planet-Anett 🤗 
-You can find full story about why planet on my Instagram which I keep private for personal reason.
+- Simple - I have planet 🪐 tattooed on my right upper arm and my name is Anett so planet-Anett 🤗 
+You can find the full story about why planet on my Instagram which I keep private for personal reasons.
+
+*[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for [POAPs](https://app.poap.xyz/scan/anett.eth)* 
 
 This page is WIP (Work In Progress) it may change over time. I'm updating it on a very irregular basis. 
+
