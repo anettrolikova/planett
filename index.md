@@ -2,7 +2,7 @@
 
 ![Hey, nice to e-meet you](https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
 
-### Open for hire for non-engineering roles, ideally protocol researcher, venture analyst, growth roles. You can find more information on this page about my past experiences. Say hi on [Telegram](https://t.me/anettrolikova) if you would like to chat in regards of possible opportunities!
+### Open for hire for non-engineering roles, ideally protocol researcher, venture analyst, dev rel and growth roles. Say Hi on [Telegram](https://t.me/anettrolikova)
 
 ### I do have shorter version of this page at [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis)
 
