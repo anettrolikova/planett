@@ -162,6 +162,7 @@ Organised and co-organised virtual events:
 [Hyperlane](https://www.hyperlane.xyz/)
 
 # Companies and projects that I worked with:
+As contractor or short-term roles or
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
 [MVP Workshop](https://mvpworkshop.co/) ⭐️
 [Flexddapps](https://flexdapps.com/) ⭐️
