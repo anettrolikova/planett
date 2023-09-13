@@ -63,6 +63,8 @@ Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) 
 
 👩‍🏫 **SheFi Season 9 Squad**
 
+👩‍💻 **[Awesome Hyperlane](https://github.com/hyperlane-xyz/Awesome-Hyperlane/blob/main/README.md)**
+
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
 Here’s the story of how I fell into Ethereum rabbit hole in bullet points: 
