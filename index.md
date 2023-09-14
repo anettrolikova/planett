@@ -157,7 +157,7 @@ Organised and co-organised virtual events:
 [Nethermind](https://nethermind.io/)
 
 ### ⏩️ Hyperlane 
-#### January 2023 - September 2023
+#### January 2023 - Present
 **Dev Rel**
 
 *Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
