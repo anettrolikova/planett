@@ -61,7 +61,7 @@ Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) 
 
 👩‍🏫 **Kernel KB4 Fellow**
 
-👩‍🏫 **SheFi Season 9 Squad**
+👩‍🏫 **[SheFi Season 9 Squad](https://airtable.com/appAp9GNAZtkSEnah/shrWwdAm3rqjEAok3/tblQ4kUBlWlXwDwxE/viwiqxbRKFvxbjVXl/recH6LVNTvECjqUdz)**
 
 👩‍💻 **[Awesome Hyperlane](https://github.com/hyperlane-xyz/Awesome-Hyperlane/blob/main/README.md)**
 
