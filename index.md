@@ -141,7 +141,7 @@ Organised and co-organised virtual events:
 - Organised [The Cyber future on Parachains](https://medium.com/bitfwd/cyber-future-on-parachains-virtual-event-5f5bac3e78d5)
 
 ### 🥝 Ethereum Magicians
-#### April 2021 - August 2021 
+#### April 2021 - August 2022 
 **Ethereum Standards Coordinator**
 
 *Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and coordinate different groups on consensus layer and activities around NFT related EIPs. 
