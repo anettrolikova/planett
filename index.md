@@ -59,7 +59,7 @@ Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) 
 
 👩‍🏫 **[DeveloperDAO member](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/7214)**
 
-👩‍🏫 **Kernel KB4 Fellow**
+👩‍🏫 **[Kernel KB4 Fellow](https://www.kernel.community/en/)**
 
 👩‍🏫 **[SheFi Season 9 Squad](https://airtable.com/appAp9GNAZtkSEnah/shrWwdAm3rqjEAok3/tblQ4kUBlWlXwDwxE/viwiqxbRKFvxbjVXl/recH6LVNTvECjqUdz)**
 
@@ -178,7 +178,7 @@ As contractor or short-term roles or
 [Gitcoin](https://gitcoin.co/)⭐️
 [SushiSwap](https://twitter.com/SushiSwap)⭐️
 [Fraktal](https://www.fraktal.io/)⭐️
-
+[Syndicate](https://syndicate.io/)⭐️
 
 # Public presence - Talks & Podcasts
 
