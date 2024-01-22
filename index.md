@@ -179,6 +179,7 @@ As contractor or short-term roles or
 [SushiSwap](https://twitter.com/SushiSwap)⭐️
 [Fraktal](https://www.fraktal.io/)⭐️
 [Syndicate](https://syndicate.io/)⭐️
+[Lukso](https://lukso.network/)⭐️
 
 # Public presence - Talks & Podcasts
 
