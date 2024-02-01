@@ -34,6 +34,7 @@
 Anett has been connecting people in the Ethereum ecosystem since 2019 with the unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and developer relations roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
+[ ~ TO BE UPDATED ~ ]
 Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) building the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box. Previously she lead [NFT Standards](https://www.nftstandards.wtf/) Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
