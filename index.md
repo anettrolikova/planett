@@ -31,11 +31,10 @@
 
 
 # 🪐 Introduction
-Anett has been connecting people in the Ethereum ecosystem since 2019 with the unique perspective on Ethereum Community. She used to be Ethereum events organiser nowdays leaning more towards project management and developer relations roles, technical writing, development coordination and similar. Learn more about Anett and her story on this website. For more in depth ideas on Ethereum Community, how volunteering at crypto conferences can help you get full time job at cryto listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
+Anett has been connecting people in the Ethereum ecosystem since 2019 with a unique perspective on the Ethereum Community. She used to be an Ethereum events organizer, but nowadays, she is leaning more toward project management and developer relations roles, technical writing, and development coordination. You can learn more about Anett and her story on this website. For more in-depth ideas on the Ethereum Community and how volunteering at crypto conferences can help you get a full-time job at crypto, listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio
-[ ~ TO BE UPDATED ~ ]
-Anett is leading Developer Relations at [Hyperlane](https://www.hyperlane.xyz/) building the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box. Previously she lead [NFT Standards](https://www.nftstandards.wtf/) Working Group as well as contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
+Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cashflow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
 ## Contributions & Memberships : 
