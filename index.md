@@ -258,6 +258,8 @@ As contractor or short-term roles or
 
 👩‍🏫 [How to Build a Thriving Community in Web3](https://www.youtube.com/watch?v=_jzpwWV6g3U&ab_channel=ETHDenver) at ETH Denver 2024 - Panel
 
+👩‍🏫 [Utility Chain: The Last Network Services Layer]() at DappCon in Berlin
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
