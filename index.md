@@ -65,6 +65,8 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 
 👩‍💻 **[Awesome Hyperlane](https://github.com/hyperlane-xyz/Awesome-Hyperlane/blob/main/README.md)**
 
+🌐 **[Praxis Nation visa holder](https://apply.prx.city/MdyvMU)**
+
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
 Here’s the story of how I fell into Ethereum rabbit hole in bullet points: 
@@ -113,6 +115,8 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 [OG Council](https://www.ogcouncil.com/) in Amsterdam
 
+[EIP Day](https://lu.ma/eip-day) in Denver
+
 ### 💜 Ethereum Meetup Support Program
 #### March 2020 - August 2020
 **Community Communications as Ethereum Foundation Grantee**
@@ -157,11 +161,18 @@ Organised and co-organised virtual events:
 [Nethermind](https://nethermind.io/)
 
 ### ⏩️ Hyperlane 
-#### January 2023 - Present
+#### January 2023 - September 2023
 **Dev Rel**
 
 *Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
 [Hyperlane](https://www.hyperlane.xyz/)
+
+### ⬛️ Last
+#### January 2024 - Presemt
+**Dev Rel**
+
+*Description of work:* Bootstrap developer community through educational content, social media activations, events, and workshops. I advocate for developers within the organization, provide technical support, and collaborate with product teams. Additionally, I maintain documentation, onboard new developers, monitor industry trends, and connect Last to the crypto ecosystem to build an impactful developer community.
+[Last](https://last.net/)
 
 # Companies and projects that I worked with:
 As contractor or short-term roles or
@@ -240,6 +251,12 @@ As contractor or short-term roles or
 👩‍🏫 [Permissionlessly Connecting Blockchains: Anett Rolikova, Hyperlane I Avalanche Summit II](https://www.youtube.com/watch?v=7UoNsKPL4uo&list=PLRHl-ulWK4-HfaHjnKsI1X55x1o_WdClN&index=147&ab_channel=Avalanche) - Talk
 
 👩‍🏫 [Interoperability challenges when building Interchain apps / Anett Rolikova](https://youtu.be/6QVCX0n0ufw) at ETH Prague 2023 - Talk
+
+👩‍🏫 [Kickstarting your badass Web3 journey](https://www.canva.com/design/DAFo0bByLlw/it1KD0xxFLdoBEiXIujBOw/edit?utm_content=DAFo0bByLlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) at Hyperlink Paris 2023 - Talk
+
+👩‍🏫 [Strategising DevRel within an organisation](https://x.com/angela_sun__/status/1765146525703733464) at Encode DevRel meetup in Denver 2024
+
+👩‍🏫 [How to Build a Thriving Community in Web3](https://www.youtube.com/watch?v=_jzpwWV6g3U&ab_channel=ETHDenver) at ETH Denver 2024 - Panel
 
 ## Featured in Media 
 
