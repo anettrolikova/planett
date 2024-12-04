@@ -259,6 +259,8 @@ As contractor or short-term roles or
 
 👩‍🏫 [Utility Chain: The Last Network Services Layer]() at DappCon in Berlin
 
+👩‍🏫 [Understanding the Broader Ethereum Ecosystem | Anett Rolikova](https://www.youtube.com/watch?v=nqncjKynD_o&ab_channel=ProtoLayersConference) at ProtoLayers in Bangkok
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
