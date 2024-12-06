@@ -259,6 +259,8 @@ As contractor or short-term roles or
 
 👩‍🏫 [Utility Chain: The Last Network Services Layer]() at DappCon in Berlin
 
+👩‍🏫 [Intro into web3 for women slides](https://www.canva.com/design/DAGJJGRk6wI/XAmRifuSQMhoKY4_4THmWA/edit?utm_content=DAGJJGRk6wI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [panel](https://www.youtube.com/watch?v=CUXp9Y1vcDs&ab_channel=BeerFiPrague-Web3on-chaindevmeetup) at BeerFi in Prague
+
 👩‍🏫 [Understanding the Broader Ethereum Ecosystem | Anett Rolikova](https://www.youtube.com/watch?v=nqncjKynD_o&ab_channel=ProtoLayersConference) at ProtoLayers in Bangkok
 
 ## Featured in Media 
