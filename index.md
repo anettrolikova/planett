@@ -28,11 +28,12 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
+# Hey, I’m currently exploring new opportunities in the Ecosystem Growth & GTM & DevRel & Events area - [let’s chat](https://x.com/AnettRolikova)!
 
 # 🪐 Introduction
 Anett has been connecting people in the Ethereum ecosystem since 2019 with a unique perspective on the Ethereum Community. She used to be an Ethereum events organizer, but nowadays, she is leaning more toward project management and developer relations roles, technical writing, and development coordination. You can learn more about Anett and her story on this website. For more in-depth ideas on the Ethereum Community and how volunteering at crypto conferences can help you get a full-time job at crypto, listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
-## My Speakers bio
+## My Speakers bio (outdated, I will update this whenever I need it next time) 
 Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cashflow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
@@ -166,12 +167,15 @@ Organised and co-organised virtual events:
 *Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
 [Hyperlane](https://www.hyperlane.xyz/)
 
-### ⬛️ Last
-#### January 2024 - Presemt
+### ⬛️ Last & HypurrFi 🐾
+#### January 2024 - March 2025
 **Dev Rel**
 
-*Description of work:* Bootstrap developer community through educational content, social media activations, events, and workshops. I advocate for developers within the organization, provide technical support, and collaborate with product teams. Additionally, I maintain documentation, onboard new developers, monitor industry trends, and connect Last to the crypto ecosystem to build an impactful developer community.
+*Description of work:* Grow the developer community through educational content, social media, and in-person events. Provide technical support, collaborate with product and marketing teams. Connect the Last team with strategic ecosystem partners and maintain those relationships. I also bring the Last and HypurrFi brands to life through an in-person activations such as experience style events, swag.
 [Last](https://last.net/)
+[HypurrFi](https://www.hypurr.fi/en-us/)
+
+
 
 # Companies and projects that I worked with:
 As contractor or short-term roles or
