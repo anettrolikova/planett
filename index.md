@@ -31,7 +31,9 @@
 ### Hey, I’m exploring new opportunities. I'm interested in Ecosystem Growth & GTM & DevRel & Events & Chief of Staff roles - let’s chat [DMs open](https://x.com/AnettRolikova)!
 
 # 🪐 Introduction
-Anett has been connecting people in the Ethereum ecosystem since 2019 with a unique perspective on the Ethereum Community. She used to be an Ethereum events organizer, but nowadays, she is leaning more toward project management and developer relations roles, technical writing, and development coordination. You can learn more about Anett and her story on this website. For more in-depth ideas on the Ethereum Community and how volunteering at crypto conferences can help you get a full-time job at crypto, listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
+I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how the Ethereum community works. I started as an Ethereum event organizer but have shifted toward project management, developer relations management, technical writing, and development coordination. I focus on helping teams bridge the gap between builders and users. I also love hosting unique events and in-person experiences that unite the community in fun and unexpected ways.
+
+If you’re curious about my journey—from volunteering at crypto conferences to landing a full-time role in Web3, you should listen to the [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
 ## My Speakers bio (outdated, I will update this whenever I need it next time) 
 Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cashflow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
@@ -87,15 +89,15 @@ The story continues in Proof of Work as I started working in the ecosystem full 
 ### 🌈 Progressbar
 #### September 2018 - January 2020
 Operations, Event Management
-*Description of work:* In charge of Social Media platforms, program agenda of events. Communications and Operations for blockchain focused co-working space. 
+*Description of work:* Managed event programming, social media announcements, and coworking space operations. Led member onboarding and fostered a strong community culture in a blockchain-focused co-working space.
 [Progressbar](https://progressbar.sk/)
 
 ### ✨ Ethereum Magicians
 #### June 2019 - March 2020
 Operations Manager
-*Description of work:* Managing social media platforms, organizing and hosting in person and online events, creating content for social media platforms, community and platform operations. Leading fundraising and grant campaigns.
+*Description of work:* Managed social media platforms, created content for blogs and social media, and oversaw community and platform operations. Organized and hosted in-person Councils and online events. Led fundraising and grant campaigns to support community initiatives.
 
-##### I have organised following events: 
+I have organised following events: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
@@ -121,7 +123,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 #### March 2020 - August 2020
 **Community Communications as Ethereum Foundation Grantee**
 
-*Description of work:* Created Gitbook guide documentation for Ethereum meetup organizers, research on community events and virtual events platforms, leading community of meetup organizers. Host group community calls, connect speakers with organizers, involve community in group activities. Community building, coordinating. Using creative ideas, interate fast, communicate, problem solving, effectively self-manage community.
+*Description of work:* Created documentation for Ethereum meetup organizers, researching community and virtual event platforms. Founded and led a community of 50+ event organizers worldwide, hosting group calls and connecting organizers with speakers. 
 [Find out more](https://medium.com/ethereum-meetups-support) about Ethereum Meetup Support Program 
 [EMSP Documentation](https://anett.gitbook.io/emsp/)
 
@@ -129,13 +131,14 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 #### September 2020 - December 2020
 **Community Communications**
 
-*Description of work:* Creating campaigns on social media, organising and hosting Community Calls, creating product tutorials on Intercom, create Community Design plan. [Project website](https://www.superfluid.finance/)
+*Description of work:* Managed social media platforms using third-party tools, wrote product tutorials on Intercom and developed a community design strategy. Organized community calls to drive engagement and foster user collaboration.
+[Superfluid](https://www.superfluid.finance/)
 
 ### 🐨 Bitfwd
 #### December 2020 - April 2021
 **Ecosystem Weaver**
 
-*Description of work:* Worked with a few projects on creating social media campaigns, organising and hosting Community Calls, designing promo materials, swag operations and logistics, virtual event organisation, logistics and operations. 
+*Description of work:* Collaborated with multiple projects to design and execute social media campaigns, organize and host community calls, and coordinate virtual events. Managed promotional materials, swag production, and logistics to enhance brand engagement. Led event operations, ensuring seamless execution of community-driven initiatives.
 
 Worked with projects: 
 🌱[DeepDAO](https://deepdao.io/)🌱[dHEDGE](https://www.dhedge.org/)🌱 [Bitfwd](https://www.bitfwd.com/)🌱
@@ -148,7 +151,7 @@ Organised and co-organised virtual events:
 #### April 2021 - August 2022 
 **Ethereum Standards Coordinator**
 
-*Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and coordinate different groups on consensus layer and activities around NFT related EIPs. 
+*Description of work:* Researched and documented 15+ NFT-related EIP and ERC standards, creating comprehensive documentation. Founded and led the 200+ member NFT Standards Working Group, hosting community calls, coordinating developer meetups, and representing the community at conferences.
 
 Proof Of Work: 
 - [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
@@ -159,7 +162,7 @@ Proof Of Work:
 #### September 2022 - October 2022
 **Internship Program Manager**
 [Nethermind](https://nethermind.io/)
-*Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
+*Description of work:* Manage up to 150 interns across all departments and guide them during their internship tenure. Developed comprehensive onboarding materials and streamlined processes, enhancing the learning curve for interns across all departments.
 
 
 ### ⏩️ Hyperlane 
@@ -167,7 +170,7 @@ Proof Of Work:
 **Dev Rel**
 [Hyperlane](https://www.hyperlane.xyz/) 
 
-*Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
+*Description of work:* Develop engaging content and own technical documentation to resonate with the technical community. Drive business development strategies and build meaningful relationships with project collaborators. Lead community engagement and growth initiatives, design and manage the ambassador program, and collaborate with PM and BD teams to enhance developer experience and documentation.
 
 Proof Of Work:
 - [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe)
@@ -179,8 +182,7 @@ Proof Of Work:
 **Dev Rel**
 [Last](https://last.net/)
 [HypurrFi](https://www.hypurr.fi/en-us/)
-*Description of work:* Grow the developer community through educational content, social media, and in-person events. Provide technical support, collaborate with product and marketing teams. Connect the Last team with strategic ecosystem partners and maintain those relationships. I also bring the Last and HypurrFi brands to life through an in-person activations such as experience style events, swag.
-
+*Description of work:* Grow the developer community through educational content, social media, and in-person events. Connect the Last team with strategic ecosystem partners. Designed and executed in-person activations, including experience-driven events and branded swag, to enhance community engagement.
 
 I have organized the following events on behalf of Last / HypurrFi:
 For every event that we organized, I was in charge of branding, swag, end-to-end production of the event & activation, team and community facilitation and coordination. 
@@ -223,6 +225,7 @@ As contractor or short-term roles or
 [Lukso](https://lukso.network/)⭐️
 
 # Public presence - Talks & Podcasts
+All my talks and podcasts
 
 👩‍🏫 [How to improve Ethereum by contributing to an open-source ecosystem](https://twitter.com/smpalladino/status/1181076398301036544?s=20) Lightning talk on ETHPlanet Lightning talks in Osaka 
 
@@ -325,9 +328,7 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 
 📝 I write notes and share interesting articles to my [Mind Garden](https://anettrolikova.tumblr.com/)
 
-
 🚲 I share my workouts, hikes on [Strava](https://www.strava.com/athletes/61054116)
-
 
 📖 I do read books and share them on [Goodreads](https://www.goodreads.com/anett)
 
@@ -408,5 +409,4 @@ You can find the full story about why planet on my Instagram which I keep privat
 
 *[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for [POAPs](https://app.poap.xyz/scan/anett.eth)* 
 
-This page is WIP (Work In Progress) it may change over time. I'm updating it on a very irregular basis. 
-
+This page is WIP (Work In Progress) it may change over time. I'm updating it on a very irregular basis. Latest update: 3/10/2025
