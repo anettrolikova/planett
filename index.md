@@ -28,7 +28,7 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
-# Hey, I’m currently exploring new opportunities in the Ecosystem Growth & GTM & DevRel & Events area - [let’s chat](https://x.com/AnettRolikova)!
+### Hey, I’m exploring new opportunities. I'm interested in Ecosystem Growth & GTM & DevRel & Events & Chief of Staff roles - let’s chat [DMs open](https://x.com/AnettRolikova)!
 
 # 🪐 Introduction
 Anett has been connecting people in the Ethereum ecosystem since 2019 with a unique perspective on the Ethereum Community. She used to be an Ethereum events organizer, but nowadays, she is leaning more toward project management and developer relations roles, technical writing, and development coordination. You can learn more about Anett and her story on this website. For more in-depth ideas on the Ethereum Community and how volunteering at crypto conferences can help you get a full-time job at crypto, listen [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
@@ -55,7 +55,7 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 
 🥁 **[EIP All Info Doc](https://www.notion.so/ethmagicians/EIP-All-Info-8991d71f20254175b9cff554603d2247)**
 
-👩‍💻 **Advisor for ConsenSys Vanguard Program**
+👩‍💻 **[Advisor for ConsenSys Vanguard Program](https://consensys.io/)**
 
 👩‍🏫 **[DeveloperDAO member](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/7214)**
 
@@ -149,32 +149,59 @@ Organised and co-organised virtual events:
 **Ethereum Standards Coordinator**
 
 *Description of work:* Research and document NFT-related EIP and ERC standards, create documentation and perform technical writing, lead NFT Standards Working Group, host community calls, coordinate and host developer meetups, representing the community on various conferences. Collaborate with Ethereum Core Coordinators and coordinate different groups on consensus layer and activities around NFT related EIPs. 
-[NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
 
-[NFT Standards Community GitHub](https://github.com/NFT-Standards-WG)
+Proof Of Work: 
+- [NFT Standards.wtf](https://www.nftstandards.wtf/) documentation
+- [NFT Standards Community GitHub](https://github.com/NFT-Standards-WG) 
+- [EIP Day by Ethereum Magicians](https://lu.ma/eip-day) 
 
 ### 🛸 Nethermind 
 #### September 2022 - October 2022
 **Internship Program Manager**
-
-*Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
 [Nethermind](https://nethermind.io/)
+*Description of work:* Manage up to 150 interns across all departments, coach and guide them during the internship tenure - Help interns join the project(s) which align best with their interests at the start and during the internship. Work with the Project Staffing team and Project Managers to understand projects and their staffing needs. Help project teams to prepare intern onboarding materials and procedures to ease the project entry learning curve.
+
 
 ### ⏩️ Hyperlane 
 #### January 2023 - September 2023
 **Dev Rel**
+[Hyperlane](https://www.hyperlane.xyz/) 
 
 *Description of work:* Produce engaging content that appeals to technical community, own technical documentation. Create business development strategies, engage with Hyperlane partners and build meaningful relationships with project partners. My role involved building community Engagement and Community Growth strategies, design and lead ambassador program, and work closely with PM and BD teams on developer experience and improving documentation.
-[Hyperlane](https://www.hyperlane.xyz/)
+
+Proof Of Work:
+- [Warp Routes Walkthrough](https://medium.com/hyperlane/warp-routes-walkthrough-e963b36df8fe)
+- [Hyperlane Explorer Spotlight](https://medium.com/hyperlane/hyperlane-explorer-spotlight-ef580c83fb3a)
+- [Announcing the Hyperlane Pilot Academy](https://medium.com/hyperlane/announcing-the-hyperlane-pilot-academy-5f696c30f042)
 
 ### ⬛️ Last & HypurrFi 🐾
 #### January 2024 - March 2025
 **Dev Rel**
-
-*Description of work:* Grow the developer community through educational content, social media, and in-person events. Provide technical support, collaborate with product and marketing teams. Connect the Last team with strategic ecosystem partners and maintain those relationships. I also bring the Last and HypurrFi brands to life through an in-person activations such as experience style events, swag.
 [Last](https://last.net/)
 [HypurrFi](https://www.hypurr.fi/en-us/)
+*Description of work:* Grow the developer community through educational content, social media, and in-person events. Provide technical support, collaborate with product and marketing teams. Connect the Last team with strategic ecosystem partners and maintain those relationships. I also bring the Last and HypurrFi brands to life through an in-person activations such as experience style events, swag.
 
+
+I have organized the following events on behalf of Last / HypurrFi:
+For every event that we organized, I was in charge of branding, swag, end-to-end production of the event & activation, team and community facilitation and coordination. 
+
+ETHDenver2025
+- [Catball (dodgeball!) Tournament at ETH Denver](https://lu.ma/4k011viq) 
+- [HypurrCollective Gathers: ETHDenver](https://lu.ma/w0cinp8s)
+
+Devcon2024:
+- Coordinate a group of 70+ community members for [Last mob at Devcon](https://lu.ma/m0t9r9k7) and side events, after events hangouts...
+
+EthCC in Brussels2024
+Barn in Brussels - 4 days long creative event activation around EthCC in Brussels 
+- [SheFi Community Brunch](https://lu.ma/shefibrunch)
+- [DevRel Hangs](https://lu.ma/ethccdevrel)
+- [Devs & Vibes](https://lu.ma/developerdao)
+- [SocialFi & the Next Billion Users](https://lu.ma/socialfi)
+- [OUR MOVEMENT by ON AIR-onchain](https://lu.ma/onair--onchain)
+- [Cowork and Vibe with Last](https://lu.ma/wwfuhti8)
+- [LAST Day & RWAs](https://lu.ma/onchainrwa)
+- [Raise Glass with LAST](https://lu.ma/raiseglasswithlast)
 
 
 # Companies and projects that I worked with:
@@ -307,44 +334,66 @@ I created Ethereum Community YouTube channel where I did [interview with Udi Wer
 
 # 🦋 My favs and recommendations 
 
-### Podcasts 
+## Podcasts 
 I do listen to podcasts sometimes, here are my favs: 
 
-### Crypto 
+### Crypto Podcasts
 Updated list: 
-- [Unchained](https://open.spotify.com/show/1cJrrfGY1SKBIRn5noKSAf?si=b13d26ae079b4486)
+- [Unchained](https://open.spotify.com/show/1cJrrfGY1SKBIRn5noKSAf?si=b13d26ae079b4486) - I've been a huge fan of The Chopping Block and it is the most listened podcast in my case
+- [Over Abstraction](https://open.spotify.com/show/1TEKcygNONYSk3B5pCnl7U?si=d432e3c9b6854a21)
+- [Flywheel DeFi](https://open.spotify.com/show/34xXNO289naHrPB2h4uN4J?si=ba051465bfb7495c) - Enjoyable, heavy DeFi but no new ep anymore :(
+- [Rehash: A Web3 Podcast](https://open.spotify.com/show/0ih4vN6lXKh4jt7VQYfjva?si=cb671e76fad84269)
+- [Web3 Galaxy Brain](https://open.spotify.com/show/5CHD9XnIA0kRsCIIQ2xnlO?si=750986b2f80d4779) - My no1 most listen podcast of last year! 
+  
+
+I used to love these:
 - [Bell Curve](https://open.spotify.com/show/3uMWirMj2hc7IQYEUeBTyT?si=f1d090dd7fce4bc7)
 - [Into the Bytecode](https://open.spotify.com/show/5yEjxV7wEYwW6MiiIzzM5P?si=86241449a1664a61)
 - [Uncommon Core 2.0](https://open.spotify.com/show/3vuV292Him90EjQ5YL4XIw?si=1a576222070a4d9c)
 - [Zero Knowledge](https://open.spotify.com/show/5Xan1x9Cj7BBvRs2Ss4keG?si=cc6e7874a21b4b0c)
-
-I used to love these:
 - [Into the Ether](https://podcast.ethhub.io/)
 - [Modern Finance](https://modern.finance/)
 - [Bankless](https://banklesshq.com/)
 - [On The Other Side](https://www.othersidepod.xyz/)
 
 
-#### Non-Crypto
+#### Non-Crypto Podcasts
 Updated list: 
+- [Dialectic](https://open.spotify.com/show/2IEN4eE9HvNKJHnLv5EMG9?si=e1db0c312ea24740)
+- [The MIT Press Podcast](https://open.spotify.com/show/61vYjj35hJszQvxH6ttTGu?si=b588b4ddaf5544b3)
+- [Advocu Podcast](https://open.spotify.com/show/6VFrAHgMgr57x6Vp6mEBwg?si=e1fc845f30484c72) amazing podcast for DevRels! 
+
+ I used to love these - I just do not listen to them anymore:  
 - [Hurdle](https://open.spotify.com/show/3ugW9QfSKmL3AWx8N7thmd?si=de6d7aa5feb5463a)
 - [Trained](https://open.spotify.com/show/4S5PahOirvvAuGBswLfNzh)
 - [Being Human Podcast](https://open.spotify.com/show/1hz649aUzzEKxcECTYD9Nr?si=f60cf4e327cb42a7&nd=1)
-  
-I used to love these: 
 - [The Knowledge Project](https://fs.blog/knowledge-project/)
 - [Huberman](https://hubermanlab.com/)
 - [Ben Greenfield](https://bengreenfieldfitness.com/)
 - [The Genius Life](https://www.maxlugavere.com/podcast-1)
 
-### Newsletter 
-#### Crypto 
+## Newsletters 
+I enjoy newsletters - substacks, here are some of my recent and past loved newsletters
+#### Crypto Newsletters
+I've been enjoying these recently:
+- [Veradi Verdict](https://www.veradiverdict.com/)
+- [Standford Blockchain Review](https://review.stanfordblockchain.xyz/)
+
+ I used to love these - I do not read them anymore:
 - [Week In the Ethereum News](https://weekinethereumnews.com/)
 - [The Daily Gwei](https://thedailygwei.substack.com/)
 
-#### Non Crypto 
-If you're looking for something simple to read in the morning or looking for simple yet educational newsletter [Empty Your Cup](https://emptyyourcup.substack.com/) does it wonder:) 
-If you're looking for something more smarter, technology oriented then [Excavations](https://liamp.substack.com/) are great and also [Nothing but Words](https://adolos.substack.com/) newsletter too, both are pretty interesting and I do recommend to subscribe to both of them :) 
+#### Non-Crypto Newsletters
+I've been enjoying these recently:
+- [Milk & Cookies](https://ayushithakkar.substack.com/)
+- [Bookbear express](https://www.avabear.xyz/)
+- [Read Max](https://maxread.substack.com/) - it's pretty AI related
+- [Touristy](https://touristy.substack.com/)
+
+I used to love these - I do not read them anymore:
+- [Empty Your Cup](https://emptyyourcup.substack.com/)
+- [Excavations](https://liamp.substack.com/) 
+- [Nothing but Words](https://adolos.substack.com/) 
 
 ### Articles & Books 
 - Mindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
