@@ -28,7 +28,7 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
-### Hey, I’m exploring new opportunities. I'm interested in Ecosystem Growth & GTM & DevRel & Events & Chief of Staff roles - let’s chat [DMs open](https://x.com/AnettRolikova)!
+### Hey, I’m exploring new opportunities. I'm interested in Ecosystem Growth & GTM & DevRel & Events manager roles - let’s chat [DMs open](https://x.com/AnettRolikova)!
 
 # 🪐 Introduction
 I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how the Ethereum community works. I started as an Ethereum event organizer but have shifted toward project management, developer relations management, technical writing, and development coordination. I focus on helping teams bridge the gap between builders and users. I also love hosting unique events and in-person experiences that unite the community in fun and unexpected ways.
