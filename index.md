@@ -35,7 +35,8 @@ I have been connecting people in the Ethereum ecosystem since 2019, bringing a u
 
 If you’re curious about my journey—from volunteering at crypto conferences to landing a full-time role in Web3, you should listen to the [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
-## My Speakers bio (outdated, I will update this whenever I need it next time) 
+## My Speakers bio 
+(outdated for now but keeping it here for the archival purposes)
 Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cashflow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
