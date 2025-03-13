@@ -17,7 +17,7 @@
 💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Miror](https://anett.mirror.xyz/) too
 
 
-🎨 I do create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
+🎨 I used to create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
 
 
 👩‍💻 I do have my own GitHub repository list of links for [Crypto Beginners](https://github.com/anettrolikova/Crypto/blob/master/README.md)
