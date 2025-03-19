@@ -14,7 +14,7 @@
 💼 I do have [LinkedIn](https://www.linkedin.com/in/anette-rolikova/) 
 
 
-💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Miror](https://anett.mirror.xyz/) too
+💻 I enjoy writing and share my blogs on [Medium](https://medium.com/@AnettRolikova) you can find me on [Mirror](https://anett.mirror.xyz/) too
 
 
 🎨 I used to create art and mint my NFTs on [KodaDot](https://nft.kodadot.xyz/rmrk/u/CxQJNQeowRUJBgUHQpspudWy4BU6Rk2u93yDZEKe6GzcLDe)
