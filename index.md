@@ -35,9 +35,9 @@ I have been connecting people in the Ethereum ecosystem since 2019, bringing a u
 
 If you’re curious about my journey—from volunteering at crypto conferences to landing a full-time role in Web3, you should listen to the [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
 
-## My Speakers bio 
-(outdated for now but keeping it here for the archival purposes)
-Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cashflow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives contributing to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
+## My Speakers Bio 
+(Outdated for now, but keeping it here for archival purposes)
+Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cash flow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives, which contribute to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 
 ## Contributions & Memberships : 
@@ -72,21 +72,26 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 
 🧊 **[Icebreaker profile](https://app.icebreaker.xyz/profiles/yQUieZpxoPJEmw11324pE?key=vGUi2FmSgQ_wBdr5u71kA)**
 
+## Hackathon Judging
+- [ETH Prague](https://ethprague.com/#Manifesto)
+- [ETH Bratislava](https://ethbratislava.com/)
+- [ETH Denver](https://www.ethdenver.com/)
+
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
-Here’s the story of how I fell into Ethereum rabbit hole in bullet points: 
+Here’s the story of how I fell into the Ethereum rabbit hole in bullet points: 
 
 - April 2018 I visited [Progressbar](https://www.progressbar.sk/) - blockchain focused cowork space for the first time
 - September 2018 I started to help out in Progressbar with events
-- November 2018 crew from Progressbar went on Devcon4 in Prague, I visited Prague as tourist and got invited on a couple of evening events during Devcon4 - Funfair and Chainlink Event, Rockaway blockchain party, Binance event, Event/ Party in Zizkov Tower. I had no idea what blockchain neither Ethereum is. I meet [Brenda Loya](https://www.linkedin.com/in/brendaloya/) at Funfair event, who gave me valuable advice about not being afraid of being the only girl around guys in tech which for me was eye-opening moment.
-- I tried to read about Blockchain and Ethereum on medium.com but I didn’t understood it
-- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and felt in love, wanted to be apart of it. Meet Lenka from MakerDAO - she told me about MakerDAO micro grants initiative. And bunch of other sweethearts that I'm in touch until today. I started to use Twitter. Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understood any of what Afri is doing but I loved the energy in the room, and took bunch of pics that are blurry but everyone was taking pics so I did too :D
+- In November 2018, the crew from Progressbar went to Devcon4 in Prague. I visited Prague as a tourist and got invited to a couple of evening events during Devcon4, including the Funfair and Chainlink Event, the Rockaway blockchain party, the Binance event, and an Event/ Party in Zizkov Tower. I had no idea what blockchain or Ethereum was. I met [Brenda Loya](https://www.linkedin.com/in/brendaloya/) at Funfair event, who gave me valuable advice about not being afraid of being the only girl around guys in tec,h which for me, was an eye-opening moment.
+- I tried to read about Blockchain and Ethereum on medium.com but I didn’t understand it
+- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and felt in love, wanted to be apart of it. Meet Lenka from MakerDAO - she told me about MakerDAO micro grants initiative. And a bunch of other sweethearts that I'm in touch with until today. I started to use Twitter. Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understood any of what Afri was doing but I loved the energy in the room and took ba unch of pics that are blurry, but everyone was taking pics, so I did too :D
 - March 2019 organised the [first MakerDAO self-organised meetup](https://blog.makerdao.com/makerdao-global-meetups-and-micro-grants-initiative/) and got micro grant from MakerDAO for it
-- April 2019 volunteered on my first ETHGlobal event - ETH Cape Town hackathon where I started to look for my first community gig in Ethereum.
-- May 2019 got my first job in Ethereum, I was working with team on Ethereum Governance related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
+- April 2019: I volunteered at my first ETHGlobal event, the ETH Cape Town hackathon, where I started to look for my first community gig in Ethereum.
+- In May 2019, I got my first job in Ethereum. I was working with the team on an Ethereum governance-related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
 - June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor. This was my most valuable connection in Ethereum that I got.
 
-The story continues in Proof of Work as I started working in the ecosystem full time on a various projects. 
+The story continues in Proof of Work, as I started working full-time on various projects in the ecosystem. 
 
 # Proof Of Work
 ### 🌈 Progressbar
@@ -134,7 +139,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 #### September 2020 - December 2020
 **Community Communications**
 
-*Description of work:* Managed social media platforms using third-party tools, wrote product tutorials on Intercom and developed a community design strategy. Organized community calls to drive engagement and foster user collaboration.
+*Description of work:* Managed social media platforms using third-party tools, wrote product tutorials on Intercom, and developed a community design strategy. Organized community calls to drive engagement and foster user collaboration.
 [Superfluid](https://www.superfluid.finance/)
 
 ### 🐨 Bitfwd
@@ -188,7 +193,7 @@ Proof Of Work:
 *Description of work:* Grow the developer community through educational content, social media, and in-person events. Connect the Last team with strategic ecosystem partners. Designed and executed in-person activations, including experience-driven events and branded swag, to enhance community engagement.
 
 I have organized the following events on behalf of Last / HypurrFi:
-For every event that we organized, I was in charge of branding, swag, end-to-end production of the event & activation, team and community facilitation and coordination. 
+For every event we organized, I was in charge of branding, swag, end-to-end production of the event & activation, team and community facilitation and coordination. 
 
 ETHDenver2025
 - [Catball (dodgeball!) Tournament at ETH Denver](https://lu.ma/4k011viq) 
@@ -197,8 +202,8 @@ ETHDenver2025
 Devcon2024:
 - Coordinate a group of 70+ community members for [Last mob at Devcon](https://lu.ma/m0t9r9k7) and side events, after events hangouts...
 
-EthCC in Brussels2024
-Barn in Brussels - 4 days long creative event activation around EthCC in Brussels 
+EthCC in Brussels 2024
+Barn in Brussels - 4-day-long creative event activation around EthCC in Brussels 
 - [SheFi Community Brunch](https://lu.ma/shefibrunch)
 - [DevRel Hangs](https://lu.ma/ethccdevrel)
 - [Devs & Vibes](https://lu.ma/developerdao)
