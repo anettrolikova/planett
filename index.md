@@ -72,6 +72,7 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 🧊 **[Icebreaker profile](https://app.icebreaker.xyz/profiles/yQUieZpxoPJEmw11324pE?key=vGUi2FmSgQ_wBdr5u71kA)**
 
 ## Hackathon Judging
+I was a Judge at following Hackathons:
 - [ETH Prague](https://ethprague.com/#Manifesto)
 - [ETH Brno](https://ethbrno.cz/)
 - [ETH Bratislava](https://ethbratislava.com/)
