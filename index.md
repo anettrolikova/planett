@@ -28,7 +28,7 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
-### Hey, I’m exploring new opportunities. I'm interested in Ecosystem Growth & GTM & DevRel & Events manager roles - let’s chat [DMs open](https://x.com/AnettRolikova)!
+### I’m currently exploring new opportunities in the crypto space. I'm interested in the Head of DevRel, Ecosystem / Growth lead at protocol or infrastructure layer, Founding Project Manager, Head of Community or Head of Strategy at governance startup roles. I'm interested to learn more about you and connecting. My [DMs are open](https://x.com/AnettRolikova)
 
 # 🪐 Introduction
 I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how the Ethereum community works. I started as an Ethereum event organizer but have shifted toward project management, developer relations management, technical writing, and development coordination. I focus on helping teams bridge the gap between builders and users. I also love hosting unique events and in-person experiences that unite the community in fun and unexpected ways.
@@ -38,7 +38,6 @@ If you’re curious about my journey—from volunteering at crypto conferences t
 ## My Speakers Bio 
 (Outdated for now, but keeping it here for archival purposes)
 Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cash flow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives, which contribute to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
-
 
 ## Contributions & Memberships : 
 
