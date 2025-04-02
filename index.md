@@ -73,6 +73,7 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 
 ## Hackathon Judging
 - [ETH Prague](https://ethprague.com/#Manifesto)
+- [ETH Brno](https://ethbrno.cz/)
 - [ETH Bratislava](https://ethbratislava.com/)
 - [ETH Denver](https://www.ethdenver.com/)
 
