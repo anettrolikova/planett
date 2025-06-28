@@ -28,16 +28,21 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
-### I’m currently exploring new opportunities in the crypto space. I'm interested in the Head of DevRel, Ecosystem / Growth lead at protocol or infrastructure layer, Founding Project Manager, Head of Community or Head of Strategy at governance startup roles. I'm interested to learn more about you and connecting. My [DMs are open](https://x.com/AnettRolikova)
+### I'm exploring roles where I can work closely with founders and teams at the protocol or infrastructure layer — especially as a Head of DevRel, Ecosystem or Growth Lead, Founding Project/Program Manager, Head of Community, or Head of Strategy at a governance-focused startup.
 
-# 🪐 Introduction
-I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how the Ethereum community works. I started as an Ethereum event organizer but have shifted toward project management, developer relations management, technical writing, and development coordination. I focus on helping teams bridge the gap between builders and users. I also love hosting unique events and in-person experiences that unite the community in fun and unexpected ways.
+I thrive in environments where brand, culture, and product meet real people. I’m most excited by projects built with care, clarity, and conviction.
+
+If that sounds like you or your team, I’d love to connect! My [DMs are open](https://x.com/AnettRolikova)
+
+# 🪐 About me
+I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how Web3 communities truly work. What started as volunteering at crypto conferences and organizing Ethereum events has evolved into over 6 years of shaping the Web3 landscape as a community architect and cultural strategist.
+
+My journey has taken me from event organizing to project management, developer relations, technical writing, and development coordination. I specialize in turning technical projects into thriving communities and helping teams bridge the gap between builders and users. But what really drives me is something deeper. I don't just build communities, I cultivate cultures.
+I believe that the strongest projects are built on strong human connections, and I've made it my mission to help Web3 teams create authentic, sustainable communities that drive real growth. I have a unique talent for creating memorable experiences and hosting events that unite the community in fun and unexpected ways.
+
+**What makes me different:** I bring both the grassroots understanding of how Ethereum communities work and the strategic expertise to transform that knowledge into scalable growth. Whether it's developer relations management, ecosystem activation, or community strategy, I focus on creating genuine connections that last.
 
 If you’re curious about my journey—from volunteering at crypto conferences to landing a full-time role in Web3, you should listen to the [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
-
-## My Speakers Bio 
-(Outdated for now, but keeping it here for archival purposes)
-Anett is leading Developer Relations at [Last](https://www.last.net/), building a groundbreaking twin-chain EVM L2 blockchain and Last Custody Network (LCN) engineered for sustainability through automated cash flow reinvestment. You might recognize Anett from the Ethereum Magicians community and [NFT Standards](https://www.nftstandards.wtf/) Working Group and Ethereum Standard improvement incentives, which contribute to the evolution of Ethereum Core Protocol on behalf of Ethereum Magicians.
 
 ## Contributions & Memberships : 
 
@@ -78,18 +83,17 @@ Anett is leading Developer Relations at [Last](https://www.last.net/), building 
 - [ETH Denver](https://www.ethdenver.com/)
 - [ETHGlobal Prague](https://ethglobal.com/events/prague#speakers)
 
-
 # ⟠ My Ethereum Story
-I may be seen as someone who just appeared on Crypto Twitter with cute face and got hundreds of followers on Twitter. 
+I may be seen as someone who just appeared on Crypto Twitter with a cute face and got hundreds of followers on Twitter. 
 Here’s the story of how I fell into the Ethereum rabbit hole in bullet points: 
 
 - April 2018 I visited [Progressbar](https://www.progressbar.sk/) - blockchain focused cowork space for the first time
 - September 2018 I started to help out in Progressbar with events
-- In November 2018, the crew from Progressbar went to Devcon4 in Prague. I visited Prague as a tourist and got invited to a couple of evening events during Devcon4, including the Funfair and Chainlink Event, the Rockaway blockchain party, the Binance event, and an Event/ Party in Zizkov Tower. I had no idea what blockchain or Ethereum was. I met [Brenda Loya](https://www.linkedin.com/in/brendaloya/) at Funfair event, who gave me valuable advice about not being afraid of being the only girl around guys in tec,h which for me, was an eye-opening moment.
-- I tried to read about Blockchain and Ethereum on medium.com but I didn’t understand it
-- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and felt in love, wanted to be apart of it. Meet Lenka from MakerDAO - she told me about MakerDAO micro grants initiative. And a bunch of other sweethearts that I'm in touch with until today. I started to use Twitter. Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understood any of what Afri was doing but I loved the energy in the room and took ba unch of pics that are blurry, but everyone was taking pics, so I did too :D
+In November 2018, the crew from Progressbar attended Devcon4 in Prague. I visited Prague as a tourist and was invited to a couple of evening events during Devcon4, including the Funfair and Chainlink Event, the Rockaway blockchain party, the Binance event, and an Event/party at Zizkov Tower. I had no idea what blockchain or Ethereum was. I met [Brenda Loya](https://www.linkedin.com/in/brendaloya/) at Funfair event, who gave me valuable advice about not being afraid of being the only girl around guys in tec,h which for me, was an eye-opening moment.
+- I tried to read about Blockchain and Ethereum on medium.com, but I didn’t understand it
+- January 2019 volunteer at AraCon - Aragon Conference. I saw the community and fell in love, and I wanted to be a part of it. Meet Lenka from MakerDAO - she told me about the MakerDAO micro-grants initiative. And a bunch of other sweethearts that I'm in touch with to this day. I started to use Twitter. Attended GoerliCon where Afri released Goerli Testnet - I had no idea what’s going on, I didn’t understand any of what Afri was doing but I loved the energy in the room and took a bunch of blurry pics, but everyone was taking pics, so I did too :D
 - March 2019 organised the [first MakerDAO self-organised meetup](https://blog.makerdao.com/makerdao-global-meetups-and-micro-grants-initiative/) and got micro grant from MakerDAO for it
-- April 2019: I volunteered at my first ETHGlobal event, the ETH Cape Town hackathon, where I started to look for my first community gig in Ethereum.
+- April 2019: I volunteered at my first ETHGlobal event, the ETH Cape Town hackathon, where I began searching for my first community gig in Ethereum.
 - In May 2019, I got my first job in Ethereum. I was working with the team on an Ethereum governance-related project. This was fail but [Griff](https://twitter.com/thegrifft) introduced me to [Jamie](https://twitter.com/jemenger)
 - June 2019 [Jamie](https://twitter.com/jemenger) offered me to help him out with [Ethereum Magicians](https://ethereum-magicians.org/). I started to help out with Operations and Events. Jamie became my mentor. This was my most valuable connection in Ethereum that I got.
 
@@ -107,7 +111,7 @@ Operations, Event Management
 Operations Manager
 *Description of work:* Managed social media platforms, created content for blogs and social media, and oversaw community and platform operations. Organized and hosted in-person Councils and online events. Led fundraising and grant campaigns to support community initiatives.
 
-I have organised following events: 
+I have organised the following events: 
 
 Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t=4628s) & [another recording](https://www.youtube.com/watch?v=GnyvrAPAluQ)
 
@@ -150,7 +154,7 @@ Council in Berlin 2019 [recording](https://www.youtube.com/watch?v=FBdczc_SY4g&t
 
 *Description of work:* Collaborated with multiple projects to design and execute social media campaigns, organize and host community calls, and coordinate virtual events. Managed promotional materials, swag production, and logistics to enhance brand engagement. Led event operations, ensuring seamless execution of community-driven initiatives.
 
-Worked with projects: 
+Worked on projects: 
 🌱[DeepDAO](https://deepdao.io/)🌱[dHEDGE](https://www.dhedge.org/)🌱 [Bitfwd](https://www.bitfwd.com/)🌱
 
 Organised and co-organised virtual events: 
@@ -205,7 +209,7 @@ Devcon2024:
 - Coordinate a group of 70+ community members for [Last mob at Devcon](https://lu.ma/m0t9r9k7) and side events, after events hangouts...
 
 EthCC in Brussels 2024
-Barn in Brussels - 4-day-long creative event activation around EthCC in Brussels 
+Barn in Brussels - a 4-day-long creative event activation around EthCC in Brussels 
 - [SheFi Community Brunch](https://lu.ma/shefibrunch)
 - [DevRel Hangs](https://lu.ma/ethccdevrel)
 - [Devs & Vibes](https://lu.ma/developerdao)
@@ -217,7 +221,7 @@ Barn in Brussels - 4-day-long creative event activation around EthCC in Brussels
 
 
 # Companies and projects that I worked with:
-As contractor or short-term roles or
+As a contractor or in short-term roles
 ⭐️ [Tennagraph](https://medium.com/@AnettRolikova/introducing-tennagraph-518540ebe01a) ⭐️
 [MVP Workshop](https://mvpworkshop.co/) ⭐️
 [Flexddapps](https://flexdapps.com/) ⭐️
@@ -384,7 +388,7 @@ Updated list:
 - [The Genius Life](https://www.maxlugavere.com/podcast-1)
 
 ## Newsletters 
-I enjoy newsletters - substacks, here are some of my recent and past loved newsletters
+I enjoy newsletters - Substacks, here are some of my recent and past loved newsletters
 #### Crypto Newsletters
 I've been enjoying these recently:
 - [Veradi Verdict](https://www.veradiverdict.com/)
@@ -407,15 +411,15 @@ I used to love these - I do not read them anymore:
 - [Nothing but Words](https://adolos.substack.com/) 
 
 ### Articles & Books 
-- Mindfulness, Productivity, Learning and other topics. Simple to read, great, educative style [Ness Labs](https://nesslabs.com/best)
+- Mindfulness, Productivity, Learning and other topics. Simple to read, great, educational style [Ness Labs](https://nesslabs.com/best)
 - My fav book that I read recently was [Manna: Two Visions of Humanity's Future by Marshall Brain](https://www.goodreads.com/book/show/13559843-manna)
 - I share articles that I read to my [Tumbr Mind Garden](https://anettrolikova.tumblr.com/) where you can find them summed up 
 - I do have [GoodReads](https://www.goodreads.com/user/show/119680987-anett-rolikova) account where I share books I'm reading 
 
 # FAQs 
 ### Why planett.xyz? 
-- Simple - I have planet 🪐 tattooed on my right upper arm and my name is Anett so planet-Anett 🤗 
-You can find the full story about why planet on my Instagram which I keep private for personal reasons.
+- Simple - I have planet 🪐 tattooed on my right upper arm and my name is Anett, so planet-Anett 🤗 
+You can find the full story about the planet on my Instagram, which I keep private for personal reasons.
 
 *[planett.eth](https://opensea.io/planett.eth) is my public ENS which I use primarily for DAOs but I also own [anett.eth](http://opensea.com/anett.eth) which I use mainly for [POAPs](https://app.poap.xyz/scan/anett.eth)* 
 
