@@ -52,7 +52,7 @@ If you’re curious about my journey—from volunteering at crypto conferences t
 
 🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
 
-📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://anett.gitbook.io/emsp/)**
+📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://emsp.gitbook.io/ethereum-meetup-support-program)**
 
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
