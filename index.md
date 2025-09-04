@@ -28,7 +28,6 @@
 
 🟪 I do enjoy [Farcaster](https://www.farcaster.xyz/) find me there as @anett
 
-### I'm exploring roles where I can work closely with founders and teams at the protocol or infrastructure layer — especially as a Head of DevRel, Ecosystem or Growth Lead, Founding Project/Program Manager, Head of Community, or Head of Strategy at a governance-focused startup.
 
 I thrive in environments where brand, culture, and product meet real people. I’m most excited by projects built with care, clarity, and conviction.
 
