@@ -75,6 +75,8 @@ If you’re curious about my journey—from volunteering at crypto conferences t
 
 🧊 **[Icebreaker profile](https://app.icebreaker.xyz/profiles/yQUieZpxoPJEmw11324pE?key=vGUi2FmSgQ_wBdr5u71kA)**
 
+〽️ **[Myosin DevRel Guild member](https://myosin.xyz/)**
+
 ## Hackathon Judging & Mentoring: 
 - [ETH Prague](https://ethprague.com/#Manifesto)
 - [ETH Brno](https://ethbrno.cz/)
