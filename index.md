@@ -50,7 +50,7 @@ If you’re curious about my journey—from volunteering at crypto conferences t
 
 👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
 
-🖼 **[NFT Standards Wiki Creator](https://www.nftstandards.wtf/)** 
+🖼 **[NFT Standards Wiki Creator](https://nft-standards.gitbook.io/nft-standards-wiki/)** 
 
 📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://emsp.gitbook.io/ethereum-meetup-support-program)**
 
