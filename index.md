@@ -3,8 +3,8 @@
 ![Hey, nice to e-meet you](https://pbs.twimg.com/profile_images/1239269511561457665/qWkxcDFd_400x400.jpg)
 
 
-### My socials are liked here, it is essentially shorter version of this website [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis) 
-### [DevRel Advocate](https://devreladvocate.xyz/) my main areas of expertise 
+### Links to my socials are here [⭐🌙🔭🐾](https://y.at/%E2%AD%90%F0%9F%8C%99%F0%9F%94%AD%F0%9F%90%BE) (click on emojis) 
+#### I'm a [DevRel Advocate](https://devreladvocate.xyz/) 👩‍💻
 
 ✨ I do enjoy Crypto [Twitter](https://twitter.com/AnettRolikova) a lot
 
@@ -32,8 +32,6 @@
 
 I thrive in environments where brand, culture, and product meet real people. I’m most excited by projects built with care, clarity, and conviction.
 
-If that sounds like you or your team, I’d love to connect! My [DMs are open](https://x.com/AnettRolikova)
-
 # 🪐 About me
 I have been connecting people in the Ethereum ecosystem since 2019, bringing a unique perspective on how Web3 communities truly work. What started as volunteering at crypto conferences and organizing Ethereum events has evolved into over 6 years of shaping the Web3 landscape as a community architect and cultural strategist.
 
@@ -43,6 +41,9 @@ I believe that the strongest projects are built on strong human connections, and
 **What makes me different:** I bring both the grassroots understanding of how Ethereum communities work and the strategic expertise to transform that knowledge into scalable growth. Whether it's developer relations management, ecosystem activation, or community strategy, I focus on creating genuine connections that last.
 
 If you’re curious about my journey—from volunteering at crypto conferences to landing a full-time role in Web3, you should listen to the [Episode 19 - Anett Rolikova by WholesomeCrypto](https://youtu.be/Oj_HIbW76TI) podcast.
+
+## Anett's speakers Bio
+Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supports the growth of the Rialo protocol by bridging technical and non-technical domains. Active in the Ethereum ecosystem since 2019, she has contributed to developer relations, EIP and ERC coordination, cross-chain bridge initiatives, and ecosystem working groups alongside leading crypto projects. Her expertise spans NFT standards, EIPs, ERCs, and technical breakdowns, with a focus on translating complex challenges into clear strategies and sustainable communities.
 
 ## Contributions & Memberships : 
 
@@ -221,6 +222,12 @@ Barn in Brussels - a 4-day-long creative event activation around EthCC in Brusse
 - [LAST Day & RWAs](https://lu.ma/onchainrwa)
 - [Raise Glass with LAST](https://lu.ma/raiseglasswithlast)
 
+### 🆁 SubZero
+#### September 2025 - Present
+**Creative Strategist**
+[SubZero](https://www.subzero.xyz/)
+[Rialo](https://www.rialo.io/)
+Subzero Labs is the original contributor behind Rialo, the Real World Blockchain.
 
 # Companies and projects that I worked with:
 As a contractor or in short-term roles
