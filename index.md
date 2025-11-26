@@ -85,6 +85,7 @@ Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supp
 - [ETH Bratislava](https://ethbratislava.com/)
 - [ETH Denver](https://www.ethdenver.com/)
 - [ETHGlobal Prague](https://ethglobal.com/events/prague#speakers)
+- [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires#speakers)
 
 # ⟠ My Ethereum Story
 I may be seen as someone who just appeared on Crypto Twitter with a cute face and got hundreds of followers on Twitter. 
