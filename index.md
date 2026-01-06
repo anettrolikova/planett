@@ -321,6 +321,8 @@ All my talks and podcasts
 
 👩‍🏫 [Understanding the Broader Ethereum Ecosystem Anett Rolikova](https://www.youtube.com/watch?v=nqncjKynD_o&ab_channel=ProtoLayersConference) at ProtoLayers in Bangkok
 
+👩‍🏫 [WiEP Brunch: Celebrating Cohort 4 at Devconnect 2025](https://www.youtube.com/watch?v=MiYQ_P7vtEQ) moderated panel at Devconnect 2025 in Buenos Aires
+
 ## Featured in Media 
 
 [Ethereum's Istanbul Hard Fork Important Updates Explained](https://cointelegraph.com/magazine/ethereum-hard-fork-istanbul-2019/) - Cointelegraph 
