@@ -79,6 +79,8 @@ Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supp
 
 〽️ **[Myosin DevRel Guild member](https://myosin.xyz/)**
 
+💃 **[SheFi Prague Chaper Lead](https://www.shefi.org/)**
+
 ## Hackathon Judging & Mentoring: 
 - [ETH Prague](https://ethprague.com/#Manifesto)
 - [ETH Brno](https://ethbrno.cz/)
