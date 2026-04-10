@@ -81,6 +81,12 @@ Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supp
 
 💃 **[SheFi Prague Chaper Lead](https://www.shefi.org/)**
 
+## Advising: 
+
+**[DAO Coalition](https://www.daocoalition.org/team)**
+
+**[Armada](https://armada.wtf/)**
+
 ## Hackathon Judging & Mentoring: 
 - [ETH Prague](https://ethprague.com/#Manifesto)
 - [ETH Brno](https://ethbrno.cz/)
