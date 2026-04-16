@@ -45,23 +45,11 @@ If you’re curious about my journey—from volunteering at crypto conferences t
 ## Anett's speakers Bio
 Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supports the growth of the Rialo protocol by bridging technical and non-technical domains. Active in the Ethereum ecosystem since 2019, she has contributed to developer relations, EIP and ERC coordination, cross-chain bridge initiatives, and ecosystem working groups alongside leading crypto projects. Her expertise spans NFT standards, EIPs, ERCs, and technical breakdowns, with a focus on translating complex challenges into clear strategies and sustainable communities.
 
-## Contributions & Memberships : 
+## Memberships: 
 
 👩‍⚖️ **[GitcoinDAO Steward](https://gov.gitcoin.co/t/introducing-stewards-governance/41/3?u=anett)**
 
 👩‍⚖️ **[EcoDAO Council member](https://forum.dhedge.org/t/transition-to-the-dhedge-ecosystem-dao-ecodao/46)**
-
-🖼 **[NFT Standards Wiki Creator](https://nft-standards.gitbook.io/nft-standards-wiki/)** 
-
-📖 **[Ethereum Meetup Gitbook for Meetup Organisers](https://emsp.gitbook.io/ethereum-meetup-support-program)**
-
-🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
-
-👩‍🏫 **[ethereum.org Content Contributor](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/eips/index.md)**
-
-👩‍💻 **[Fraktal Documentation](https://docs.fraktal.io/developers/contracts)**
-
-🥁 **[EIP All Info Doc](https://www.notion.so/ethmagicians/EIP-All-Info-8991d71f20254175b9cff554603d2247)**
 
 👩‍💻 **[Advisor for ConsenSys Vanguard Program](https://consensys.io/)**
 
@@ -69,17 +57,31 @@ Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supp
 
 👩‍🏫 **[Kernel KB4 Fellow](https://www.kernel.community/en/)**
 
-👩‍🏫 **[SheFi Season 9 Squad](https://airtable.com/appAp9GNAZtkSEnah/shrWwdAm3rqjEAok3/tblQ4kUBlWlXwDwxE/viwiqxbRKFvxbjVXl/recH6LVNTvECjqUdz)**
+👩‍🏫 **[SheFi Season 9 Squad member](https://airtable.com/appAp9GNAZtkSEnah/shrWwdAm3rqjEAok3/tblQ4kUBlWlXwDwxE/viwiqxbRKFvxbjVXl/recH6LVNTvECjqUdz)**
 
-👩‍💻 **[Awesome Hyperlane](https://github.com/hyperlane-xyz/Awesome-Hyperlane/blob/main/README.md)**
+🌐 **[Praxis Nation Steel visa holder](https://www.praxisnation.com/)**
 
-🌐 **[Praxis Nation visa holder](https://apply.prx.city/MdyvMU)**
-
-🧊 **[Icebreaker profile](https://app.icebreaker.xyz/profiles/yQUieZpxoPJEmw11324pE?key=vGUi2FmSgQ_wBdr5u71kA)**
+🧊 **[Icebreaker member](https://app.icebreaker.xyz/profiles/yQUieZpxoPJEmw11324pE?key=vGUi2FmSgQ_wBdr5u71kA)**
 
 〽️ **[Myosin DevRel Guild member](https://myosin.xyz/)**
 
 💃 **[SheFi Prague Chaper Lead](https://www.shefi.org/)**
+
+## Contributions & Projects: 
+
+🖼 **[NFT Standards Wiki Creator](https://nft-standards.gitbook.io/nft-standards-wiki/)** 
+
+📖 **[Ethereum Meetup Gitbook for Meetup Organisers Author](https://emsp.gitbook.io/ethereum-meetup-support-program)**
+
+🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
+
+👩‍🏫 **[ethereum.org Content Contributor](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/eips/index.md)**
+
+👩‍💻 **[Fraktal Documentation Creator](https://docs.fraktal.io/developers/contracts)**
+
+🥁 **[EIP All Info Doc Author](https://www.notion.so/ethmagicians/EIP-All-Info-8991d71f20254175b9cff554603d2247)**
+
+👩‍💻 **[Awesome Hyperlane Author](https://github.com/hyperlane-xyz/Awesome-Hyperlane/blob/main/README.md)**
 
 ## Advising: 
 
