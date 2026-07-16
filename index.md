@@ -76,7 +76,7 @@ Anett is a Creative Strategist on the DevEx team at SubZero Labs, where she supp
 🎨 **[KodaDot Logo and Presskit Author](https://github.com/kodadot/presskit)**
 
 👩‍🏫 **[ethereum.org Content Contributor](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/eips/index.md)** [x2](
-https://github.com/ethereum/ethereum-org-website/pull/17987#issuecomment-4300720848) 
+https://github.com/ethereum/ethereum-org-website/pull/17987#issuecomment-4300720848) [x3](https://github.com/ethereum/ethereum-org-website/pull/18030)
 
 👩‍💻 **[Fraktal Documentation Creator](https://docs.fraktal.io/developers/contracts)**
 
